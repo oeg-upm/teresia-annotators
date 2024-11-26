@@ -127,34 +127,69 @@ def search_in_dle(dje_data, text, results, termtype='Lab.'):
 
     return results
 
-DIR = r'C:\Users\pdiez\Documents\TeresIA\Anotacion_estatuto_dje'
-articles_folder = 'articulos_estatuto'
-out_folder = r'anotaciones_estatuto\anotaciones_estatuto_completo'
 
-dje_file = open(Path(DIR, 'LemasInfo-dje.json'), encoding='utf8')
-dje_data = json.load(dje_file)
 
-# iteramos sobre todos los artículos del estatuto y los abrimos
-for path in Path(DIR, 'articulos_estatuto').iterdir():
-    if path.is_file() and path.suffix == '.txt':
-        path_in_str = str(path)  
-        f = open(path_in_str, encoding='utf8')
-        data = f.read()  
-        print(path)
+def execute_annotator(pathDPEJ,path_articulos,path_salida):
 
-        resultados = {}
-        resultados = search_in_dle(dje_data, data, resultados)
+    #pathDPEJ = r'C:\Users\pdiez\Documents\TeresIA\Anotacion_estatuto_dje'
+    #articles_folder = 'articulos_estatuto'
+    #out_folder = r'anotaciones_estatuto\anotaciones_estatuto_completo'
+    
+    dje_file = open(Path(pathDPEJ, 'LemasInfo-dje.json'), encoding='utf8')
+    dje_data = json.load(dje_file)
+    
+    # iteramos sobre todos los artículos del estatuto y los abrimos
+    for path in Path(path_articulos).iterdir():
+        if path.is_file() and path.suffix == '.txt':
+            path_in_str = str(path)  
+            f = open(path_in_str, encoding='utf8')
+            data = f.read()  
+            print(path)
+    
+            resultados = {}
+            resultados = search_in_dle(dje_data, data, resultados)
+    
+            # save results
+            file_name = f"{Path(path_in_str).stem}.ann"
+            out_file = Path(path_salida, file_name)
+            f = open(out_file, 'w', encoding="utf8")
+            ind = 1
+            for term in resultados.keys():
+                for start, end in resultados[term]:
+                    term_id = f"T{ind}"                    
+                    ind += 1
+                    term_type = 'concept'
+                    formated_data = f"{term_id}\t{term_type} {start} {end}\t{term.strip()}\n"
+                    f.write(formated_data)
+            f.close()
+        
+        
+        
+import argparse
+import os
 
-        # save results
-        file_name = f"{Path(path_in_str).stem}.ann"
-        out_file = Path(DIR, out_folder, file_name)
-        f = open(out_file, 'w', encoding="utf8")
-        ind = 1
-        for term in resultados.keys():
-            for start, end in resultados[term]:
-                term_id = f"T{ind}"                    
-                ind += 1
-                term_type = 'concept'
-                formated_data = f"{term_id}\t{term_type} {start} {end}\t{term.strip()}\n"
-                f.write(formated_data)
-        f.close()
+def main():
+    # Crear un parser para los argumentos
+    parser = argparse.ArgumentParser(description="Procesar tres rutas de archivo o directorio.")
+    
+    # Añadir los tres argumentos
+    parser.add_argument('pathDPEJ', type=str, help="Ruta del primer archivo o directorio.")
+    parser.add_argument('pathIN', type=str, help="Ruta del segundo archivo o directorio.")
+    parser.add_argument('pathOUT', type=str, help="Ruta del tercer archivo o directorio.")
+    
+    # Parsear los argumentos
+    args = parser.parse_args()
+    
+    # Validar si las rutas existen
+    for idx, path in enumerate([args.pathDPEJ, args.pathIN, args.pathOUT], start=1):
+        if os.path.exists(path):
+            print(f"La ruta {idx}: '{path}' existe.")
+        else:
+            print(f"Advertencia: La ruta {idx}: '{path}' no existe.")
+            
+    
+    execute_annotator(args.pathDPEJ, args.pathIN, args.pathOUT)
+            
+    
+if __name__ == "__main__":
+    main()
