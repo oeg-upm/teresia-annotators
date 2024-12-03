@@ -1,0 +1,1451 @@
+article,head,head_type,type,tail,tail_type
+articulo_52.txt,Extinción del contrato,concept,facet of,contrato,concept
+articulo_52.txt,extinguirse,concept,facet of,contrato,concept
+articulo_52.txt,ineptitud,concept,subclass of,prueba,concept
+articulo_52.txt,tiempo de trabajo efectivo,concept,subclass of,tiempo destinado a la formación,concept
+articulo_52.txt,extinción,concept,has cause,extinción,concept
+articulo_52.txt,prioridad de permanencia,concept,facet of,empresa,concept
+articulo_52.txt,Derogada,concept,opposite of,Derogada,concept
+articulo_52.txt,contratos por tiempo indefinido,concept,subclass of,contratos por tiempo,concept
+articulo_52.txt,artículo 521,concept,part of,artículo 521,concept
+articulo_13.txt,Trabajo a distancia,concept,subclass of,Trabajo,concept
+articulo_13.txt,trabajador,concept,field of this occupation,actividad laboral,concept
+articulo_13.txt,contrato de trabajo,concept,subclass of,contrato,concept
+articulo_13.txt,retribución,concept,subclass of,derecho,concept
+articulo_13.txt,formación profesional,concept,part of,empleo,concept
+articulo_13.txt,Prevención de Riesgos Laborales,concept,facet of,seguridad y salud,concept
+articulo_13.txt,representación colectiva,concept,subclass of,derechos de representación,concept
+articulo_13.txt,CAPÍTULO II,media,follows,CAPÍTULO I,media
+articulo_13.txt,Contenido del contrato de trabajo,concept,part of,contrato de trabajo,concept
+articulo_13.txt,Sección 1.a Duración del contrato,concept,part of,contrato,concept
+articulo_89.txt,Tramitación,concept,has cause,Tramitación,concept
+articulo_89.txt,promoción,concept,part of,convenio colectivo,concept
+articulo_89.txt,84,time,follows,83,time
+articulo_89.txt,buena fe,concept,part of,negociar,concept
+articulo_89.txt,bienes,concept,has cause,violencia,concept
+articulo_89.txt,plan de negociación,concept,facet of,negociación,concept
+articulo_89.txt,mayoría,concept,subclass of,voto,concept
+articulo_89.txt,mediador,concept,part of,deliberaciones,concept
+articulo_42.txt,Subcontratación de obras y servicios,concept,subclass of,obras y servicios,concept
+articulo_42.txt,Seguridad Social,concept,subsidiary,Tesorería General de la Seguridad Social,concept
+articulo_42.txt,subcontratista,concept,subclass of,contratista,concept
+articulo_42.txt,subcontratista,concept,subclass of,contratista,concept
+articulo_42.txt,contratista,concept,field of this occupation,construcción,concept
+articulo_42.txt,Tesorería General,media,part of,Seguridad Social,concept
+articulo_42.txt,subcontratista,concept,subclass of,contratista,concept
+articulo_42.txt,subcontratista,concept,subclass of,contratista,concept
+articulo_42.txt,contrata,concept,has quality,duración,concept
+articulo_42.txt,contrata,concept,subclass of,ejecución,concept
+articulo_42.txt,contrata,concept,part of,centro de trabajo,concept
+articulo_42.txt,subcontrata,concept,part of,centro de trabajo,concept
+articulo_42.txt,prevención de riesgos laborales,concept,subclass of,actividades,concept
+articulo_42.txt,contratista,concept,opposite of,subcontratista,concept
+articulo_42.txt,subcontratista,concept,opposite of,contratista,concept
+articulo_42.txt,subcontratista,concept,subclass of,contratista,concept
+articulo_42.txt,contratistas,concept,opposite of,subcontratistas,concept
+articulo_42.txt,subcontratistas,concept,opposite of,contratistas,concept
+articulo_42.txt,reclamaciones,concept,participant,trabajador,concept
+articulo_42.txt,contratistas,concept,opposite of,subcontratistas,concept
+articulo_42.txt,subcontratistas,concept,opposite of,contratistas,concept
+articulo_42.txt,representantes de los trabajadores,concept,subclass of,representación,concept
+articulo_85.txt,Contenido,concept,has quality,Contenido,concept
+articulo_85.txt,41,concept,follows,40,concept
+articulo_85.txt,47,concept,follows,41,concept
+articulo_85.txt,51,concept,follows,47,concept
+articulo_85.txt,igualdad de trato y de oportunidades entre mujeres y hombres,concept,subclass of,igualdad,concept
+articulo_85.txt,despido,concept,part of,negociación colectiva,concept
+articulo_85.txt,negociación colectiva,concept,subclass of,negociación,concept
+articulo_85.txt,convenios colectivos,concept,subclass of,convenios,concept
+articulo_85.txt,negociación colectiva,concept,subclass of,convenios colectivos,concept
+articulo_85.txt,libertad de contratación,concept,part of,convenios colectivos,concept
+articulo_85.txt,partes,concept,part of,conciertan,concept
+articulo_85.txt,temporal,concept,subclass of,Ámbito personal,concept
+articulo_85.txt,artículo 82.3,concept,part of,artículo 82.3,media
+articulo_85.txt,denuncia,concept,part of,convenio,concept
+articulo_85.txt,sistemas no judiciales,concept,subclass of,solución de conflictos,concept
+articulo_38.txt,Vacaciones anuales,concept,subclass of,Vacaciones,concept
+articulo_38.txt,contrato individual,concept,subclass of,convenio colectivo,concept
+articulo_38.txt,vacaciones,concept,part of,convenios colectivos,concept
+articulo_38.txt,preferente,concept,subclass of,procedimiento,concept
+articulo_38.txt,vacaciones,concept,different from,disfrute,concept
+articulo_38.txt,disfrute,concept,different from,vacaciones,concept
+articulo_38.txt,parto,concept,has cause,incapacidad temporal,concept
+articulo_38.txt,incapacidad temporal,concept,subclass of,vacaciones,concept
+articulo_38.txt,CAPÍTULO III,media,follows,CAPÍTULO III,media
+articulo_38.txt,"Modificación, suspensión y extinción del contrato de trabajo",concept,facet of,contrato de trabajo,concept
+articulo_38.txt,Sección 1.a Movilidad funcional y geográfica,concept,facet of,Movilidad funcional y geográfica,concept
+articulo_5.txt,Deberes laborales,concept,facet of,laborales,concept
+articulo_5.txt,deberes básicos,concept,subclass of,deberes,concept
+articulo_5.txt,buena fe,concept,instance of,reglas,concept
+articulo_5.txt,diligencia,concept,instance of,reglas,concept
+articulo_5.txt,prevención de riesgos laborales,concept,subclass of,medidas de prevención,concept
+articulo_5.txt,facultades directivas,concept,facet of,empresario,concept
+articulo_5.txt,empresa,concept,subclass of,actividad,concept
+articulo_5.txt,e) Contribuir a la mejora de la productividad,concept,facet of,productividad,concept
+articulo_5.txt,contratos de trabajo,concept,part of,Cuantos,concept
+articulo_5.txt,Elementos y eficacia del contrato de trabajo,concept,part of,contrato de trabajo,concept
+articulo_16.txt,Contrato fijo-discontinuo,concept,opposite of,continuo,concept
+articulo_16.txt,continuo,concept,opposite of,Contrato fijo-discontinuo,concept
+articulo_16.txt,fijo-discontinuo,concept,subclass of,contrato por tiempo,concept
+articulo_16.txt,contrato a tiempo parcial,concept,subclass of,contrato,concept
+articulo_16.txt,convenios colectivos,concept,part of,jurisdicción social,concept
+articulo_16.txt,distribución horaria,concept,part of,jornada laboral,concept
+articulo_16.txt,contratos fijos-discontinuos,concept,subclass of,contratos temporales,concept
+articulo_16.txt,deberes derivados del contrato,concept,subclass of,Derechos,concept
+articulo_92.txt,Adhesión y extensión,concept,subclass of,extensión,concept
+articulo_92.txt,convenio colectivo,concept,part of,negociación,concept
+articulo_92.txt,Ministerio de Empleo y Seguridad Social,org,applies to jurisdiction,comunidades autónomas,concept
+articulo_92.txt,resolución expresa,concept,subclass of,decisión,concept
+articulo_92.txt,procedimiento de extensión,concept,part of,negociación colectiva,concept
+articulo_92.txt,Disposición adicional primera,concept,subclass of,Trabajo por cuenta propia,concept
+articulo_92.txt,cuenta propia,concept,subclass of,trabajo,concept
+articulo_92.txt,Disposición adicional segunda,concept,part of,Contratos para la formación y el aprendizaje,concept
+articulo_92.txt,programas públicos de empleo y formación,concept,main regulatory text,Ley de Empleo,concept
+articulo_92.txt,maternidad,concept,different from,paternidad,concept
+articulo_92.txt,paternidad,concept,different from,maternidad,concept
+articulo_92.txt,Derogado,concept,part of,2. (Derogado),concept
+articulo_92.txt,Disposición adicional tercera. Negociación colectiva y contrato fijo de obra,concept,part of,Negociación colectiva y contrato fijo de obra,concept
+articulo_92.txt,subcontratación,concept,part of,negociación colectiva,concept
+articulo_92.txt,Disposición adicional cuarta. Conceptos retributivos,concept,subclass of,retributivos,concept
+articulo_92.txt,Ley sobre Infracciones y Sanciones en el Orden Social,concept,replaces,Ley 11/1994,concept
+articulo_92.txt,Disposición adicional quinta. Personal de alta dirección,concept,subclass of,Personal de alta dirección,concept
+articulo_92.txt,salario,concept,subclass of,retribuciones,concept
+articulo_92.txt,Disposición adicional sexta,concept,instance of,Representación institucional,concept
+articulo_92.txt,Administraciones Públicas,org,applies to jurisdiction,comunidad autónoma,concept
+articulo_92.txt,confederaciones,concept,subclass of,federaciones,concept
+articulo_92.txt,más representativas,concept,subclass of,organizaciones empresariales,concept
+articulo_92.txt,Disposición adicional séptima,concept,instance of,Regulación de condiciones,concept
+articulo_92.txt,Ministerio de Empleo y Seguridad Social,org,part of,Gobierno,org
+articulo_92.txt,Disposición adicional octava. Código de Trabajo,media,part of,Código de Trabajo,concept
+articulo_92.txt,Ministerio de Empleo y Seguridad Social,org,main regulatory text,Código de Trabajo,media
+articulo_92.txt,Código de Trabajo,media,author,Ministerio de Empleo y Seguridad Social,org
+articulo_92.txt,Código de Trabajo,media,instance of,disposiciones generales laborales,concept
+articulo_92.txt,Comisión Consultiva Nacional de Convenios Colectivos,media,part of,Convenios Colectivos,media
+articulo_92.txt,Comisión Consultiva Nacional de Convenios Colectivos,media,part of,Ministerio de Empleo y Seguridad Social,org
+articulo_92.txt,convenios colectivos,concept,subclass of,convenio colectivo,concept
+articulo_92.txt,Observatorio de la Negociación Colectiva,concept,field of work,negociación colectiva,concept
+articulo_92.txt,condiciones de trabajo,concept,part of,convenios colectivos,concept
+articulo_92.txt,Comisión Consultiva Nacional de Convenios Colectivos,media,field of work,Convenios Colectivos,concept
+articulo_92.txt,Comisión Consultiva Nacional de Convenios Colectivos,media,instance of,autoridad laboral,concept
+articulo_92.txt,Comisión Consultiva Nacional de Convenios Colectivos,media,instance of,ley,concept
+articulo_92.txt,Ministerio de Empleo y Seguridad Social,org,subsidiary,Comisión Consultiva Nacional de Convenios Colectivos,org
+articulo_92.txt,Ministerio de Empleo y Seguridad Social,org,subsidiary,Comisión Consultiva Nacional de Convenios Colectivos,org
+articulo_92.txt,edad ordinaria de jubilación,concept,part of,convenios colectivos,concept
+articulo_92.txt,edad legal de jubilación,concept,facet of,Seguridad Social,concept
+articulo_92.txt,pensión ordinaria de jubilación,concept,part of,Seguridad Social,concept
+articulo_92.txt,contratos temporales,concept,subclass of,contrato,concept
+articulo_92.txt,capacidad representativa,concept,facet of,organizaciones sindicales,concept
+articulo_92.txt,comunidades autónomas,concept,part of,estatal,concept
+articulo_92.txt,duodécima,concept,instance of,Disposición adicional,concept
+articulo_92.txt,empresario,concept,field of this occupation,organizaciones sindicales,concept
+articulo_92.txt,Disposición adicional decimotercera,concept,instance of,Solución no judicial de conflictos,concept
+articulo_92.txt,procedimientos no judiciales de solución de conflictos,concept,subclass of,procedimiento,concept
+articulo_92.txt,Disposición adicional decimocuarta. Consideración de víctimas del terrorismo a efectos laborales,concept,main subject,terrorismo,concept
+articulo_92.txt,"Ley 29/2011, de 22 de septiembre, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo",concept,main subject,"22 de septiembre, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo",concept
+articulo_92.txt,obra,concept,part of,contrato,concept
+articulo_92.txt,servicio,concept,part of,contrato,concept
+articulo_92.txt,organismos públicos vinculados o dependientes,concept,subclass of,Administraciones Públicas,concept
+articulo_92.txt,extinción de la relación laboral,concept,facet of,empleo público,concept
+articulo_92.txt,contrato de trabajo,concept,subclass of,contrato por obra o servicio determinados,concept
+articulo_92.txt,organismos públicos,concept,subclass of,entidades de derecho público,concept
+articulo_92.txt,agencias,concept,subclass of,entidades de derecho público,concept
+articulo_92.txt,Disposición adicional decimosexta,concept,subclass of,despido,concept
+articulo_92.txt,sector público,concept,subclass of,Administraciones Públicas,concept
+articulo_92.txt,entes,concept,part of,Administraciones Públicas,concept
+articulo_92.txt,organismos,concept,part of,Administraciones Públicas,concept
+articulo_92.txt,entidades,concept,part of,Administraciones Públicas,concept
+articulo_92.txt,mérito,concept,part of,igualdad,concept
+articulo_92.txt,Disposición adicional decimoséptima,concept,instance of,reducción de jornada,concept
+articulo_92.txt,Administraciones Públicas,concept,subclass of,organismos públicos,concept
+articulo_92.txt,Disposición adicional decimoctava,concept,main subject,conciliación,concept
+articulo_92.txt,Ley 36/2011,media,main subject,Reguladora de la Jurisdicción Social,concept
+articulo_92.txt,Disposición adicional decimonovena,concept,subclass of,indemnizaciones,concept
+articulo_92.txt,reducción de jornada,concept,subclass of,indemnizaciones,concept
+articulo_92.txt,segundo párrafo,concept,follows,séptimo párrafo,concept
+articulo_92.txt,Disposición adicional vigésima,concept,instance of,Contratos formativos,concept
+articulo_92.txt,contratos en prácticas,concept,part of,Seguridad Social,concept
+articulo_92.txt,cuotas empresariales,concept,part of,Seguridad Social,concept
+articulo_92.txt,contratos para la formación y el aprendizaje,concept,subclass of,contratos,concept
+articulo_92.txt,Disposición adicional vigesimoprimera,concept,subclass of,trabajadores excedentes,concept
+articulo_92.txt,beneficiarios de prestaciones por desempleo,concept,part of,Seguridad Social,concept
+articulo_92.txt,excedencia,concept,subclass of,trabajador,concept
+articulo_92.txt,excedencia,concept,subclass of,trabajador,concept
+articulo_92.txt,excedencia,concept,subclass of,trabajador,concept
+articulo_92.txt,empresario,concept,field of this occupation,empresa,concept
+articulo_92.txt,artículo 15,concept,part of,ley,concept
+articulo_92.txt,Disposición adicional vigesimosegunda,concept,subclass of,"Permisos de nacimiento, adopción, del progenitor diferente de la madre biológica y lactancia",concept
+articulo_92.txt,Ley del Estatuto Básico del Empleado Público,concept,instance of,Real Decreto Legislativo,concept
+articulo_92.txt,Disposición transitoria primera,concept,instance of,ley,concept
+articulo_92.txt,contratos celebrados antes de la entrada en vigor de esta ley,concept,subclass of,contratos,concept
+articulo_92.txt,Disposición transitoria segunda,concept,part of,Contratos para la formación y el aprendizaje,concept
+articulo_92.txt,Derogado,concept,taxon rank,1.,concept
+articulo_92.txt,contrato para la formación y el aprendizaje,concept,start time,31 de agosto de 2011,date
+articulo_92.txt,edad de jubilación,concept,facet of,jubilación,concept
+articulo_92.txt,texto refundido de la Ley General de la Seguridad Social,concept,main regulatory text,Ley General de la Seguridad Social,media
+articulo_92.txt,Disposición transitoria cuarta,concept,part of,Negociación colectiva,concept
+articulo_92.txt,convenios colectivos sectoriales,concept,point in time,19 de septiembre de 2010,date
+articulo_92.txt,Disposición transitoria quinta,concept,main subject,Limitación del encadenamiento de modalidades contractuales,concept
+articulo_92.txt,contratos de trabajo,concept,start time,18 de junio de 2010,date
+articulo_92.txt,Ley 43/2006,media,publication date,15 de junio de 2006,date
+articulo_92.txt,contrato,concept,subclass of,contrato,concept
+articulo_92.txt,2012,time,follows,2011,time
+articulo_92.txt,Disposición transitoria sexta,concept,instance of,Horas complementarias,concept
+articulo_92.txt,horas complementarias,concept,end time,22 de diciembre de 2013,date
+articulo_92.txt,guarda con fines de adopción o acogimiento,concept,follows,permiso de paternidad,concept
+articulo_92.txt,parto,concept,part of,permiso de paternidad,concept
+articulo_92.txt,parto,concept,part of,permiso de paternidad,concept
+articulo_92.txt,adopción,concept,part of,permiso de paternidad,concept
+articulo_92.txt,adopción,concept,part of,permiso de paternidad,concept
+articulo_92.txt,guarda con fines de adopción o acogimiento múltiples,concept,part of,permiso de paternidad,concept
+articulo_92.txt,guarda con fines de adopción o acogimiento múltiples,concept,part of,permiso de paternidad,concept
+articulo_92.txt,adopción,concept,different from,guarda con fines de adopción o acogimiento,concept
+articulo_92.txt,guarda con fines de adopción o acogimiento,concept,different from,adopción,concept
+articulo_92.txt,guarda con fines de adopción o acogimiento,concept,different from,adopción,concept
+articulo_92.txt,guarda con fines de adopción o acogimiento,concept,different from,adopción,concept
+articulo_92.txt,adopción,concept,different from,guarda con fines de adopción o acogimiento,concept
+articulo_92.txt,adopción,concept,different from,guarda con fines de adopción o acogimiento,concept
+articulo_92.txt,guarda con fines de adopción o acogimiento,concept,different from,adopción,concept
+articulo_92.txt,guarda con fines de adopción o acogimiento,concept,different from,guarda con fines de adopción o acogimiento,concept
+articulo_92.txt,adopción,concept,different from,guarda con fines de adopción o acogimiento,concept
+articulo_92.txt,adopción,concept,different from,guarda con fines de adopción o acogimiento,concept
+articulo_92.txt,2017,time,point in time,1 de enero de 2017,date
+articulo_92.txt,Disposición transitoria octava,concept,main subject,contrato temporal,concept
+articulo_92.txt,contrato temporal,concept,subclass of,indemnización,concept
+articulo_92.txt,2011,time,end time,31 de diciembre de 2011,date
+articulo_92.txt,2012,time,start time,1 de enero de 2012,date
+articulo_92.txt,2013,time,point in time,1 de enero de 2013,date
+articulo_92.txt,2014,time,start time,1 de enero de 2014,date
+articulo_92.txt,2015,time,point in time,1 de enero de 2015,date
+articulo_92.txt,extinciones,concept,opposite of,extinción,concept
+articulo_92.txt,extinción,concept,opposite of,extinciones,concept
+articulo_92.txt,edad ordinaria de jubilación,concept,part of,convenios colectivos,concept
+articulo_92.txt,(Derogado),concept,has cause,Derogado,concept
+articulo_92.txt,Disposición transitoria décima,concept,main subject,regulación de empleo,concept
+articulo_92.txt,regulación de empleo para la extinción o suspensión de los contratos de trabajo o para la reducción de jornada,concept,start time,12 de febrero de 2012,date
+articulo_92.txt,regulación de empleo,concept,start time,12 de febrero de 2012,date
+articulo_92.txt,Disposición transitoria undécima,concept,follows,undécima,concept
+articulo_92.txt,artículo 56.1,concept,publication date,12 de febrero de 2012,date
+articulo_92.txt,indemnización por despido improcedente de los contratos formalizados con anterioridad al 12 de febrero de 2012,concept,start time,12 de febrero de 2012,date
+articulo_92.txt,indemnización por despido improcedente de los contratos formalizados con anterioridad al 12 de febrero de 2012,concept,start time,12 de febrero de 2012,date
+articulo_92.txt,contratos de fomento de la contratación indefinida,concept,start time,12 de febrero de 2012,date
+articulo_92.txt,despido improcedente,concept,subclass of,despido disciplinario,concept
+articulo_92.txt,Disposición transitoria duodécima,concept,instance of,Salarios de tramitación,concept
+articulo_92.txt,expedientes de reclamación al Estado de salarios,concept,start time,15 de julio de 2012,date
+articulo_92.txt,medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación,concept,"Real Decreto-ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y de oportunidades entre hombres en el empleo y la ocupación","Real Decreto-ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y de oportunidades entre hombres en el empleo y la ocupación",concept
+articulo_92.txt,medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación,concept,"Real Decreto-ley 6/2019, de 1 de marzo, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y de oportunidades","Real Decreto-ley 6/2019, de 1 de marzo, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y de oportunidades entre hombres en el empleo y la ocupación",concept
+articulo_92.txt,medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación,concept,"Real Decreto-ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y de oportunidades entre hombres en el empleo y la ocupación","Real Decreto-ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y de oportunidades entre hombres en el empleo y la ocupación",concept
+articulo_92.txt,medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y hombres en el empleo y la ocupación,concept,part of,"Real Decreto-ley 6/2019, de 1 de marzo, de medidas urgentes para garantía de la igualdad de trato y de oportunidades entre mujeres y de oportunidades entre hombres en el empleo y la ocupación",concept
+articulo_92.txt,Real Decreto-ley 6/2019,concept,publication date,6/2019,date
+articulo_92.txt,Real Decreto-ley 6/2019,concept,publication date,6/2019,date
+articulo_92.txt,madre biológica,concept,opposite of,progenitor,concept
+articulo_92.txt,progenitor,concept,opposite of,madre biológica,concept
+articulo_92.txt,guarda con fines de adopción o acogimiento,concept,different from,"adopción, guarda con fines de adopción o acogimiento",concept
+articulo_92.txt,"adopción, guarda con fines de adopción o acogimiento",concept,different from,guarda con fines de adopción o acogimiento,concept
+articulo_92.txt,2020,time,point in time,1 de enero de 2020,date
+articulo_92.txt,2020,time,point in time,1 de enero de 2020,date
+articulo_92.txt,2021,time,point in time,1 de enero de 2021,date
+articulo_92.txt,periodos de suspensión,concept,opposite of,periodo de aplicación paulatina,concept
+articulo_92.txt,periodo de aplicación paulatina,concept,opposite of,periodos de suspensión,concept
+articulo_92.txt,madre biológica,concept,opposite of,progenitor,concept
+articulo_92.txt,progenitor,concept,opposite of,madre biológica,concept
+articulo_92.txt,reincorporación de la madre al trabajo,concept,subclass of,incapacidad temporal,concept
+articulo_92.txt,contrato de trabajo,concept,part of,régimen transitorio,concept
+articulo_92.txt,jornada completa,concept,opposite of,tiempo parcial,concept
+articulo_92.txt,tiempo parcial,concept,opposite of,jornada completa,concept
+articulo_92.txt,Disposición final,concept,part of,Título competencial,concept
+articulo_92.txt,149.1.7.a,concept,part of,Constitución Española,media
+articulo_92.txt,Disposición final segunda,concept,part of,Desarrollo reglamentario,concept
+articulo_92.txt,ley,concept,legislated by,Gobierno,concept
+articulo_92.txt,organizaciones sindicales,concept,subclass of,asociaciones empresariales,concept
+articulo_92.txt,despido,concept,instance of,contingencia,concept
+articulo_92.txt,Incapacidad Temporal,concept,subclass of,prestación económica,concept
+articulo_92.txt,Ministerio,concept,subclass of,Organismo público,concept
+articulo_45.txt,Causas y efectos de la suspensión,concept,facet of,suspensión,concept
+articulo_45.txt,contrato de trabajo,concept,subclass of,contrato de trabajo,concept
+articulo_45.txt,Mutuo acuerdo,concept,subclass of,acuerdo,concept
+articulo_45.txt,contrato,concept,has quality,consignadas,concept
+articulo_45.txt,Incapacidad temporal,concept,subclass of,trabajadores,concept
+articulo_45.txt,Código Civil,concept,subclass of,leyes civiles,concept
+articulo_45.txt,Riesgo durante el embarazo,concept,subclass of,riesgo durante la lactancia natural,concept
+articulo_45.txt,Ejercicio de cargo público representativo,concept,subclass of,Ejercicio de cargo público,concept
+articulo_45.txt,Privación de libertad,concept,subclass of,sentencia,concept
+articulo_45.txt,sueldo,concept,part of,empleo,concept
+articulo_45.txt,Fuerza mayor temporal,concept,subclass of,Fuerza mayor,concept
+articulo_45.txt,económicas,concept,studies,producción,concept
+articulo_45.txt,Excedencia forzosa,concept,subclass of,Excedencia,concept
+articulo_45.txt,huelga,concept,subclass of,derecho,concept
+articulo_45.txt,Cierre legal,concept,part of,empresa,concept
+articulo_45.txt,abandonar su puesto de trabajo,concept,has cause,violencia de género,concept
+articulo_45.txt,remunerar el trabajo,concept,subclass of,obligaciones,concept
+articulo_9.txt,Validez del contrato,concept,facet of,contrato,concept
+articulo_9.txt,contrato de trabajo,concept,subclass of,contrato de trabajo,concept
+articulo_9.txt,contraprestaciones,concept,part of,contrato,concept
+articulo_9.txt,contrato válido,concept,subclass of,contrato,concept
+articulo_9.txt,igual o de igual valor,concept,subclass of,retribución,concept
+articulo_9.txt,Modalidades del contrato de trabajo,concept,part of,contrato de trabajo,concept
+articulo_56.txt,Despido improcedente,concept,subclass of,Despido,concept
+articulo_56.txt,contrato de trabajo,concept,has cause,cese efectivo en el trabajo,concept
+articulo_56.txt,improcedencia,concept,subclass of,sentencia,concept
+articulo_56.txt,indemnización,concept,opposite of,readmisión,concept
+articulo_56.txt,indemnización,concept,subclass of,salario,concept
+articulo_56.txt,improcedencia del despido,concept,instance of,sentencia,concept
+articulo_56.txt,Seguridad Social,concept,country,Estado,loc
+articulo_56.txt,Sección 5.a Procedimiento concursal,media,part of,Procedimiento concursal,concept
+articulo_14.txt,Periodo de prueba,concept,subclass of,prueba,concept
+articulo_14.txt,periodo de prueba,concept,part of,convenios colectivos,concept
+articulo_14.txt,convenio colectivo,concept,subclass of,contratos temporales,concept
+articulo_14.txt,trabajador,concept,subclass of,empresario,concept
+articulo_14.txt,periodo de prueba,concept,part of,contratación,concept
+articulo_14.txt,plantilla,concept,subclass of,puesto de trabajo,concept
+articulo_14.txt,maternidad,concept,different from,maternidad,concept
+articulo_14.txt,maternidad,concept,different from,maternidad,concept
+articulo_14.txt,prueba,concept,part of,contrato,concept
+articulo_14.txt,riesgo durante el embarazo,concept,different from,riesgo durante la lactancia,concept
+articulo_14.txt,riesgo durante la lactancia,concept,different from,riesgo durante el embarazo,concept
+articulo_31.txt,Gratificaciones extraordinarias,concept,subclass of,Gratificaciones,concept
+articulo_31.txt,gratificaciones extraordinarias,concept,part of,convenio colectivo,concept
+articulo_31.txt,gratificaciones extraordinarias,concept,part of,convenio colectivo,concept
+articulo_57.txt,Procedimiento concursal,concept,part of,concursal,concept
+articulo_57.txt,sucesión de empresa,concept,subclass of,contratos de trabajo,concept
+articulo_57.txt,CAPÍTULO IV,media,follows,CAPÍTULO IV,media
+articulo_57.txt,Faltas y sanciones de los trabajadores,concept,subclass of,sanciones,concept
+articulo_28.txt,Igualdad de remuneración por razón de sexo,concept,subclass of,remuneración,concept
+articulo_28.txt,salarial,concept,subclass of,retribución,concept
+articulo_28.txt,tareas,concept,subclass of,funciones,concept
+articulo_28.txt,complementos salariales,concept,subclass of,salario,concept
+articulo_28.txt,representación legal de los trabajadores en la empresa,concept,part of,"derecho a acceder, a través de la representación legal de los trabajadores en la empresa",concept
+articulo_28.txt,Registro salarial,concept,facet of,retribuciones,concept
+articulo_61.txt,Participación,concept,facet of,Participación,concept
+articulo_61.txt,participación,concept,subclass of,participación,concept
+articulo_61.txt,Órganos de representación,concept,part of,Sección 1.a Órganos de representación,concept
+articulo_2.txt,Relaciones laborales,concept,has quality,carácter especial,concept
+articulo_2.txt,relaciones laborales,concept,has quality,carácter especial,concept
+articulo_2.txt,alta dirección,concept,subclass of,personal,concept
+articulo_2.txt,hogar familiar,concept,subclass of,hogar,concept
+articulo_2.txt,penados,concept,facet of,instituciones penitenciarias,concept
+articulo_2.txt,d) La de los deportistas profesionales,concept,sport,deportistas,concept
+articulo_2.txt,artistas,concept,field of this occupation,espectáculos públicos,concept
+articulo_2.txt,ventura,concept,subclass of,riesgo,concept
+articulo_2.txt,centros especiales de empleo,concept,facet of,discapacidad,concept
+articulo_2.txt,Derogada,concept,opposite of,Derogada,concept
+articulo_2.txt,medidas de internamiento,concept,subclass of,responsabilidad penal,concept
+articulo_2.txt,especialistas,concept,field of this occupation,Ciencias de la Salud,concept
+articulo_2.txt,despachos de abogados,concept,subclass of,abogado,concept
+articulo_2.txt,relación laboral,concept,subclass of,trabajo,concept
+articulo_2.txt,derechos básicos,concept,main regulatory text,Constitución,org
+articulo_69.txt,Elección,concept,part of,Elección.,concept
+articulo_69.txt,delegados de personal,concept,subclass of,sufragio personal,concept
+articulo_69.txt,antigüedad,concept,different from,antigüedad en la empresa,concept
+articulo_69.txt,antigüedad en la empresa,concept,different from,antigüedad en la empresa,concept
+articulo_69.txt,electores,concept,subclass of,elegibles,concept
+articulo_69.txt,comité de empresa,concept,subclass of,sindicatos,concept
+articulo_72.txt,trabajos no fijos,concept,opposite of,trabajos fijos-discontinuos,concept
+articulo_72.txt,trabajos fijos-discontinuos,concept,subclass of,contrato de duración determinada,concept
+articulo_72.txt,representantes,concept,has quality,número,concept
+articulo_72.txt,trabajadores fijos de plantilla,concept,subclass of,trabajadores,concept
+articulo_72.txt,días trabajados,concept,different from,fracción,concept
+articulo_72.txt,fracción,concept,different from,días trabajados,concept
+articulo_63.txt,Comités de empresa,concept,subclass of,empresa,concept
+articulo_63.txt,empresa,concept,subclass of,centro de trabajo,concept
+articulo_63.txt,comité de empresa,concept,subclass of,empresa,concept
+articulo_63.txt,comité intercentros,concept,subclass of,comités de centro,concept
+articulo_63.txt,comité intercentros,concept,subclass of,sindicatos,concept
+articulo_63.txt,intercentros,concept,subclass of,comités,media
+articulo_58.txt,Faltas y sanciones de los trabajadores,concept,facet of,trabajadores,concept
+articulo_58.txt,sanciones,concept,subclass of,sancionados,concept
+articulo_58.txt,muy graves,concept,subclass of,graves,concept
+articulo_58.txt,vacaciones,concept,subclass of,descanso,concept
+articulo_58.txt,CAPÍTULO V,misc,follows,CAPÍTULO V,misc
+articulo_58.txt,Plazos de prescripción,concept,subclass of,Plazo,concept
+articulo_58.txt,Prescripción de acciones derivadas del contrato,concept,part of,contrato,concept
+articulo_82.txt,Concepto y eficacia,concept,facet of,eficacia,concept
+articulo_82.txt,acuerdo,concept,part of,negociación,concept
+articulo_82.txt,convenios colectivos,concept,part of,paz laboral,concept
+articulo_82.txt,convenios colectivos,concept,subclass of,ley,concept
+articulo_82.txt,sector,concept,subclass of,empresa,concept
+articulo_82.txt,sector,concept,subclass of,empresa,concept
+articulo_82.txt,Jornada de trabajo,concept,subclass of,Jornada,concept
+articulo_82.txt,tiempo de trabajo,concept,part of,Horario,concept
+articulo_82.txt,Régimen de trabajo a turnos,concept,facet of,turnos,concept
+articulo_82.txt,cuantía salarial,concept,subclass of,remuneración,concept
+articulo_82.txt,Sistema de trabajo y rendimiento,concept,facet of,rendimiento,concept
+articulo_82.txt,Funciones,concept,part of,movilidad funcional,concept
+articulo_82.txt,acción protectora,concept,part of,Seguridad Social,concept
+articulo_82.txt,ingresos ordinarios,concept,opposite of,ventas,concept
+articulo_82.txt,ventas,concept,opposite of,ingresos ordinarios,concept
+articulo_82.txt,causas técnicas,concept,opposite of,causas productivas,concept
+articulo_82.txt,causas productivas,concept,opposite of,causas técnicas,concept
+articulo_82.txt,interlocutores,concept,part of,procedimiento de consultas,concept
+articulo_82.txt,discriminaciones por razones de género,concept,facet of,plan de igualdad,concept
+articulo_82.txt,arbitraje vinculante,concept,subclass of,laudo arbitral,concept
+articulo_82.txt,comunidades autónomas,concept,subclass of,comunidad autónoma,concept
+articulo_82.txt,depósito,concept,facet of,condiciones de trabajo,concept
+articulo_82.txt,derechos,concept,part of,convenio colectivo,concept
+articulo_18.txt,Inviolabilidad de la persona,concept,facet of,trabajador,concept
+articulo_18.txt,horas de trabajo,concept,part of,centro de trabajo,concept
+articulo_79.txt,Convocatoria.,concept,instance of,Convocatoria,concept
+articulo_79.txt,orden del día,concept,subclass of,convocantes,concept
+articulo_59.txt,Prescripción y caducidad,concept,opposite of,caducidad,concept
+articulo_59.txt,caducidad,concept,opposite of,Prescripción y caducidad,concept
+articulo_59.txt,contrato de trabajo,concept,has quality,plazo especial,concept
+articulo_59.txt,contrato,concept,has quality,terminado,concept
+articulo_59.txt,duración convenido,concept,instance of,disposición legal,concept
+articulo_59.txt,prestación de servicios continuados,concept,opposite of,continuidad,concept
+articulo_59.txt,continuidad,concept,opposite of,prestación de servicios continuados,concept
+articulo_59.txt,obligaciones,concept,part of,contrato,concept
+articulo_59.txt,contratos temporales,concept,subclass of,acción contra el despido,concept
+articulo_59.txt,"mediación, arbitraje y conciliación",concept,subclass of,conciliación,concept
+articulo_59.txt,movilidad geográfica,concept,subclass of,movilidad,concept
+articulo_59.txt,Sección 2.a Prescripción de las infracciones y faltas,concept,subclass of,infracción,concept
+articulo_75.txt,Votación para delegados y comités de empresa,concept,facet of,delegados y comités de empresa,concept
+articulo_75.txt,voto por correo,concept,subclass of,votación,concept
+articulo_75.txt,votación,concept,part of,proceso electoral,concept
+articulo_75.txt,papeletas,concept,part of,urna,concept
+articulo_75.txt,recuento de votos,concept,part of,votación,concept
+articulo_75.txt,centro,concept,subclass of,mesas electorales,concept
+articulo_75.txt,interventores,concept,opposite of,representantes electos,concept
+articulo_75.txt,representantes electos,concept,opposite of,interventores,concept
+articulo_75.txt,tablones de anuncios,concept,subclass of,anuncio,concept
+articulo_75.txt,presidente de la mesa,concept,part of,oficina pública dependiente de la autoridad laboral,concept
+articulo_75.txt,7,concept,follows,6,concept
+articulo_75.txt,mesa electoral,concept,facet of,cómputo electoral,concept
+articulo_75.txt,presidente de la mesa electoral,concept,part of,oficina pública dependiente de la autoridad laboral,concept
+articulo_75.txt,presidente de la mesa electoral,concept,part of,oficina pública dependiente de la autoridad laboral,concept
+articulo_75.txt,presidente de la mesa electoral,concept,part of,oficina pública dependiente de la autoridad laboral,concept
+articulo_75.txt,presidente de la mesa electoral,concept,part of,oficina pública dependiente de la autoridad laboral,concept
+articulo_75.txt,presidente de la mesa electoral,concept,part of,oficina pública dependiente de la autoridad laboral,concept
+articulo_75.txt,presidente de la mesa electoral,concept,part of,oficina pública dependiente de la autoridad laboral,concept
+articulo_75.txt,presidente de la mesa electoral,concept,part of,oficina pública dependiente de la autoridad laboral,concept
+articulo_75.txt,presidente de la mesa electoral,concept,part of,oficina pública dependiente de la autoridad laboral,concept
+articulo_75.txt,presidente de la mesa electoral,concept,part of,oficina pública dependiente de la autoridad laboral,concept
+articulo_75.txt,presidente de la mesa electoral,concept,part of,oficina pública dependiente de la autoridad laboral,concept
+articulo_75.txt,presidente de la mesa electoral,concept,part of,oficina pública dependiente de la autoridad laboral,concept
+articulo_75.txt,presidente de la mesa electoral,concept,part of,oficina pública dependiente de la autoridad laboral,concept
+articulo_75.txt,orden jurisdiccional social,concept,subclass of,registro,concept
+articulo_29.txt,Liquidación y pago,concept,subclass of,pago,concept
+articulo_29.txt,salario,concept,subclass of,retribuciones,concept
+articulo_29.txt,anticipo,concept,subclass of,pago,concept
+articulo_29.txt,convenio colectivo,concept,participant,empresa,concept
+articulo_29.txt,fijos-discontinuos,concept,subclass of,salario,concept
+articulo_29.txt,comisión,concept,subclass of,salario,concept
+articulo_29.txt,representantes legales,concept,part of,trabajador,concept
+articulo_29.txt,mora,concept,subclass of,interés,concept
+articulo_29.txt,cheque,concept,instance of,modalidad de pago,concept
+articulo_50.txt,Extinción por voluntad,concept,subclass of,voluntad,concept
+articulo_50.txt,extinción del contrato,concept,facet of,contrato,concept
+articulo_50.txt,artículo 41,concept,main subject,condiciones de trabajo,concept
+articulo_50.txt,falta de pago,concept,opposite of,salario,concept
+articulo_50.txt,salario,concept,opposite of,falta de pago,concept
+articulo_50.txt,41,concept,follows,40,concept
+articulo_50.txt,despido improcedente,concept,subclass of,indemnizaciones,concept
+articulo_68.txt,Garantías,concept,manufacturer,Garantías,org
+articulo_68.txt,representantes legales,concept,part of,convenios colectivos,concept
+articulo_68.txt,muy graves,concept,subclass of,faltas graves,concept
+articulo_68.txt,extinción,concept,has cause,extinción,concept
+articulo_68.txt,sancionado,concept,subclass of,sanción,concept
+articulo_68.txt,comité,concept,part of,empresa,concept
+articulo_68.txt,delegado de personal,concept,subclass of,representación,concept
+articulo_68.txt,horas,concept,part of,hora,concept
+articulo_68.txt,horas,concept,part of,hora,concept
+articulo_68.txt,horas,concept,part of,quinientos,concept
+articulo_68.txt,horas,concept,part of,quinientos,concept
+articulo_68.txt,cincuenta,concept,part of,horas,concept
+articulo_68.txt,uno,concept,follows,cincuenta,concept
+articulo_68.txt,delegados de personal,concept,part of,comité de empresa,concept
+articulo_68.txt,Sección 2.a Procedimiento electoral,concept,part of,Procedimiento electoral,concept
+articulo_35.txt,Horas extraordinarias,concept,instance of,Horas extraordinarias,concept
+articulo_35.txt,descanso,concept,subclass of,descanso,concept
+articulo_35.txt,jornada en cómputo,concept,opposite of,jornada general,concept
+articulo_35.txt,jornada general,concept,opposite of,jornada en cómputo,concept
+articulo_35.txt,horas extraordinarias,concept,subclass of,descanso,concept
+articulo_35.txt,horas extraordinarias,concept,subclass of,horas,concept
+articulo_35.txt,horas extraordinarias autorizadas,concept,subclass of,horas extraordinarias,concept
+articulo_35.txt,contrato individual de trabajo,concept,subclass of,convenio colectivo,concept
+articulo_35.txt,horas extraordinarias,concept,subclass of,cómputo de horas,concept
+articulo_21.txt,Pacto de no concurrencia y de permanencia en la empresa,concept,instance of,empresa,concept
+articulo_21.txt,dedicación,concept,subclass of,prestación laboral,concept
+articulo_21.txt,contrato de trabajo,concept,subclass of,contrato,concept
+articulo_21.txt,interés industrial,concept,opposite of,comercial,concept
+articulo_21.txt,comercial,concept,opposite of,interés industrial,concept
+articulo_21.txt,compensación económica,concept,facet of,trabajador,concept
+articulo_21.txt,plena dedicación,concept,opposite of,plena dedicación,concept
+articulo_21.txt,plena dedicación,concept,opposite of,plena dedicación,concept
+articulo_21.txt,daños y perjuicios,concept,subclass of,indemnización,concept
+articulo_21.txt,Sección 3.a Clasificación profesional y promoción en el trabajo,concept,part of,Clasificación profesional y promoción en el trabajo,concept
+articulo_60.txt,Prescripción,concept,used by,Prescripción,concept
+articulo_60.txt,Infracciones y Sanciones en el Orden Social,concept,subclass of,infracciones,concept
+articulo_60.txt,graves,concept,opposite of,muy graves,concept
+articulo_60.txt,muy graves,concept,opposite of,graves,concept
+articulo_60.txt,TÍTULO II,media,follows,TÍTULO I,media
+articulo_60.txt,reunión de los trabajadores en la empresa,concept,subclass of,representación colectiva,concept
+articulo_60.txt,CAPÍTULO I,media,follows,CAPÍTULO I,media
+articulo_60.txt,representación colectiva,concept,subclass of,derecho,concept
+articulo_91.txt,Aplicación e interpretación del convenio colectivo,concept,facet of,convenio colectivo,concept
+articulo_91.txt,jurisdicción social,concept,subclass of,competencias legalmente atribuidas,concept
+articulo_91.txt,88,concept,follows,87,concept
+articulo_91.txt,89,concept,follows,88,concept
+articulo_91.txt,laudo arbitral,concept,subclass of,actuación arbitral,concept
+articulo_91.txt,convenio,concept,part of,conflicto colectivo,concept
+articulo_91.txt,convenios colectivos,concept,subclass of,ley,concept
+articulo_91.txt,solución de conflictos,concept,subclass of,controversia,concept
+articulo_91.txt,Adhesión,concept,opposite of,extensión,concept
+articulo_91.txt,extensión,concept,opposite of,Adhesión,concept
+articulo_24.txt,Ascensos,concept,subclass of,Ascenso,concept
+articulo_24.txt,acuerdo colectivo,concept,part of,sistema de clasificación profesional,concept
+articulo_24.txt,antigüedad,concept,subclass of,méritos,concept
+articulo_24.txt,mujeres,concept,opposite of,hombres,concept
+articulo_24.txt,hombres,concept,opposite of,mujeres,concept
+articulo_41.txt,Modificaciones sustanciales de condiciones de trabajo,concept,facet of,condiciones de trabajo,concept
+articulo_41.txt,competitividad,concept,facet of,productividad,concept
+articulo_41.txt,modificaciones sustanciales de las condiciones de trabajo,concept,facet of,condiciones de trabajo,concept
+articulo_41.txt,Jornada de trabajo,concept,subclass of,Jornada,concept
+articulo_41.txt,tiempo de trabajo,concept,part of,Horario,concept
+articulo_41.txt,Régimen de trabajo a turnos,concept,facet of,turnos,concept
+articulo_41.txt,cuantía salarial,concept,subclass of,remuneración,concept
+articulo_41.txt,Sistema de trabajo y rendimiento,concept,facet of,rendimiento,concept
+articulo_41.txt,Funciones,concept,part of,movilidad funcional,concept
+articulo_41.txt,acuerdos,concept,part of,contrato de trabajo,concept
+articulo_41.txt,colectivo,concept,subclass of,modificación,concept
+articulo_41.txt,trabajadores,concept,part of,empresas,concept
+articulo_41.txt,trabajadores,concept,part of,empresa,concept
+articulo_41.txt,Treinta trabajadores,concept,subclass of,trabajadores,concept
+articulo_41.txt,modificaciones colectivas,concept,subclass of,modificación,concept
+articulo_41.txt,empresario,concept,field of this occupation,trabajador,concept
+articulo_41.txt,c,concept,instance of,letra,concept
+articulo_41.txt,d,concept,instance of,letra,concept
+articulo_41.txt,f,concept,instance of,letra,concept
+articulo_41.txt,injustificada,concept,opposite of,justificada,concept
+articulo_41.txt,fraude de ley,concept,subclass of,fraude,concept
+articulo_41.txt,negociación colectiva,concept,facet of,condiciones de trabajo,concept
+articulo_41.txt,delegados de personal,concept,part of,secciones sindicales,concept
+articulo_41.txt,interlocutores,concept,subclass of,intervención,concept
+articulo_41.txt,delegados de personal,concept,part of,comité de empresa,concept
+articulo_41.txt,empresario,concept,field of this occupation,organizaciones empresariales,concept
+articulo_41.txt,interlocutores,concept,subclass of,procedimiento,concept
+articulo_41.txt,comité intercentros,concept,subclass of,convenio colectivo,concept
+articulo_41.txt,comisión representativa,concept,instance of,reglas,concept
+articulo_41.txt,representantes legales,concept,part of,centros de trabajo,concept
+articulo_41.txt,representantes legales,concept,subclass of,representantes legales,concept
+articulo_41.txt,representantes legales de los trabajadores,concept,subclass of,representantes legales de los trabajadores,concept
+articulo_41.txt,representantes legales,concept,part of,centros de trabajo,concept
+articulo_41.txt,trece,concept,instance of,número inicial de representantes,concept
+articulo_41.txt,trece,concept,instance of,número inicial de representantes,concept
+articulo_41.txt,dirección,concept,part of,empresa,concept
+articulo_41.txt,periodo de consultas,concept,follows,periodo de consultas,concept
+articulo_41.txt,representantes legales,concept,part of,comisión representativa de los trabajadores,concept
+articulo_41.txt,arbitraje,concept,subclass of,mediación,concept
+articulo_41.txt,fraude,concept,subclass of,abuso de derecho,concept
+articulo_41.txt,modificación colectiva de las condiciones de trabajo,concept,has cause,consultas sin acuerdo,concept
+articulo_41.txt,conflicto colectivo,concept,subclass of,conflicto,concept
+articulo_41.txt,convenios colectivos,concept,subclass of,condiciones de trabajo,concept
+articulo_41.txt,traslados,concept,subclass of,normas específicas,concept
+articulo_41.txt,Sección 2.a Garantías por cambio de empresario,concept,part of,Garantías por cambio de empresario,concept
+articulo_17.txt,No discriminación en las relaciones laborales,concept,facet of,relaciones laborales,concept
+articulo_17.txt,discriminación directa o indirecta desfavorables por razón de edad o discapacidad,concept,subclass of,"discriminación directa o indirecta por razón de sexo, origen, incluido el racial o étnico",concept
+articulo_17.txt,"discriminación directa o indirecta por razón de sexo, origen, incluido el racial o étnico",concept,subclass of,discriminación directa o indirecta desfavorables por razón de edad o discapacidad,concept
+articulo_17.txt,igualdad de trato,concept,opposite of,no discriminación,concept
+articulo_17.txt,no discriminación,concept,opposite of,igualdad de trato,concept
+articulo_17.txt,contratado libremente,concept,instance of,ley,concept
+articulo_17.txt,reserva,concept,subclass of,empleo,concept
+articulo_17.txt,duración,concept,subclass of,empleo,concept
+articulo_17.txt,preferencia,concept,subclass of,empleo,concept
+articulo_17.txt,asociaciones empresariales,concept,subclass of,organizaciones sindicales,concept
+articulo_17.txt,contratos por tiempo indefinido,concept,subclass of,contratos temporales,concept
+articulo_17.txt,mujeres,concept,instance of,profesiones,concept
+articulo_17.txt,clasificación profesional,concept,part of,negociación colectiva,concept
+articulo_17.txt,mujeres,concept,opposite of,hombres,concept
+articulo_17.txt,hombres,concept,opposite of,mujeres,concept
+articulo_20.txt,Dirección y control de la actividad laboral,concept,facet of,actividad laboral,concept
+articulo_20.txt,empresario,concept,field of this occupation,trabajo convenido,concept
+articulo_20.txt,contrato,concept,subclass of,contrato,concept
+articulo_20.txt,deberes laborales,concept,subclass of,obligaciones,concept
+articulo_20.txt,médico,concept,field of this occupation,salud,concept
+articulo_20.txt,intimidad,concept,part of,Derechos de los trabajadores,concept
+articulo_20.txt,intimidad,concept,instance of,derechos digitales,concept
+articulo_20.txt,intimidad,concept,instance of,derechos digitales,concept
+articulo_84.txt,Concurrencia,concept,has cause,Concurrencia,concept
+articulo_84.txt,convenios de ámbito distinto,concept,subclass of,convenio colectivo,concept
+articulo_84.txt,convenios colectivos,concept,subclass of,convenio de empresa,concept
+articulo_84.txt,salario base,concept,subclass of,salario,concept
+articulo_84.txt,horas extraordinarias,concept,subclass of,retribución,concept
+articulo_84.txt,vacaciones,concept,has quality,horario,concept
+articulo_84.txt,trabajadores,concept,part of,empresa,concept
+articulo_84.txt,convenios de empresa,concept,part of,contratación,concept
+articulo_84.txt,"conciliación entre la vida laboral, familiar y personal",concept,subclass of,"conciliación entre la vida laboral, familiar y personal",concept
+articulo_84.txt,convenios colectivos,concept,subclass of,acuerdos,concept
+articulo_84.txt,empresas vinculadas,concept,subclass of,convenios colectivos,concept
+articulo_84.txt,83.2,concept,instance of,artículo,concept
+articulo_84.txt,88,concept,follows,87,concept
+articulo_84.txt,prevención de riesgos laborales,concept,subclass of,régimen disciplinario,concept
+articulo_48.txt,Suspensión con reserva de puesto de trabajo,concept,subclass of,Suspensión,concept
+articulo_48.txt,reincorporación,concept,facet of,puesto de trabajo,concept
+articulo_48.txt,absoluta,concept,subclass of,incapacidad permanente,concept
+articulo_48.txt,absoluta,concept,subclass of,incapacidad permanente,concept
+articulo_48.txt,absoluta,concept,subclass of,incapacidad permanente,concept
+articulo_48.txt,gran invalidez,concept,subclass of,incapacidad permanente,concept
+articulo_48.txt,gran invalidez,concept,subclass of,incapacidad permanente,concept
+articulo_48.txt,gran invalidez,concept,subclass of,incapacidad permanente,concept
+articulo_48.txt,reincorporarse,concept,has cause,reincorporarse,concept
+articulo_48.txt,parto,concept,has cause,parto,concept
+articulo_48.txt,parto,concept,has cause,contrato de trabajo,concept
+articulo_48.txt,parto prematuro,concept,subclass of,parto,concept
+articulo_48.txt,parto prematuro con falta de peso,concept,subclass of,parto,concept
+articulo_48.txt,reincorporación al puesto de trabajo,concept,subclass of,descanso obligatorio,concept
+articulo_48.txt,hijo,concept,opposite of,hija,concept
+articulo_48.txt,hija,concept,opposite of,hijo,concept
+articulo_48.txt,trabajadora,concept,opposite of,progenitor,concept
+articulo_48.txt,progenitor,concept,opposite of,trabajadora,concept
+articulo_48.txt,jornada parcial,concept,opposite of,jornada completa,concept
+articulo_48.txt,convenios colectivos,concept,participant,empresa,concept
+articulo_48.txt,adopción,concept,different from,guarda con fines de adopción,concept
+articulo_48.txt,guarda con fines de adopción,concept,different from,adopción,concept
+articulo_48.txt,jornada completa,concept,opposite of,tiempo parcial,concept
+articulo_48.txt,tiempo parcial,concept,opposite of,jornada completa,concept
+articulo_48.txt,adopción internacional,concept,subclass of,adoptado,concept
+articulo_48.txt,acogedor,concept,subclass of,guardador,concept
+articulo_48.txt,convenios colectivos,concept,participant,empresa,concept
+articulo_48.txt,guarda con fines de adopción o de acogimiento,concept,different from,guarda con fines de adopción o de acogimiento múltiple,concept
+articulo_48.txt,guarda con fines de adopción o de acogimiento múltiple,concept,different from,guarda con fines de adopción o de acogimiento,concept
+articulo_48.txt,riesgo durante el embarazo,concept,different from,riesgo durante la lactancia natural,concept
+articulo_48.txt,riesgo durante la lactancia natural,concept,different from,riesgo durante el embarazo,concept
+articulo_48.txt,tutela judicial,concept,subclass of,derecho de protección,concept
+articulo_48.txt,suspensión del contrato,concept,facet of,contrato,concept
+articulo_48.txt,Sección 4.a Extinción del contrato,concept,part of,Extinción del contrato,concept
+articulo_33.txt,Fondo de Garantía Salarial,media,instance of,Garantía Salarial,concept
+articulo_33.txt,Fondo de Garantía Salarial,media,part of,Ministerio de Empleo y Seguridad Social,org
+articulo_33.txt,pagas extraordinarias,concept,subclass of,salario,concept
+articulo_33.txt,Fondo de Garantía Salarial,media,main regulatory text,"Ley 22/2003, de 9 de julio, Concursal",concept
+articulo_33.txt,extinción,concept,subclass of,contrato,concept
+articulo_33.txt,Fondo de Garantía Salarial,media,instance of,Fondo,concept
+articulo_33.txt,créditos,concept,different from,deudas de la masa,concept
+articulo_33.txt,deudas de la masa,concept,different from,créditos,concept
+articulo_33.txt,pagas extraordinarias,concept,part of,salario mínimo interprofesional,concept
+articulo_33.txt,indemnización,concept,part of,Fondo,concept
+articulo_33.txt,instrucción de expediente,concept,facet of,Fondo,concept
+articulo_33.txt,Fondo de Garantía Salarial,media,instance of,ley,concept
+articulo_33.txt,Fondo de Garantía Salarial,media,instance of,ley,concept
+articulo_33.txt,Seguridad Social,concept,facet of,desempleo,concept
+articulo_33.txt,Ley 36/2011,media,main subject,Reguladora de la Jurisdicción Social,concept
+articulo_33.txt,indemnizaciones,concept,subclass of,salario,concept
+articulo_33.txt,acciones ejecutivas,concept,part of,procedimiento concursal,concept
+articulo_33.txt,Fondo de Garantía Salarial,media,instance of,arbitrales,concept
+articulo_33.txt,Fondo de Garantía Salarial,media,country,España,loc
+articulo_33.txt,Estado miembro distinto,concept,country,España,loc
+articulo_33.txt,empresario,concept,field of this occupation,empresa,concept
+articulo_33.txt,Fondo de Garantía Salarial,media,instance of,institución de garantía,concept
+articulo_33.txt,Fondo de Garantía Salarial,media,country,España,loc
+articulo_33.txt,Fondo de Garantía Salarial,media,country,España,loc
+articulo_33.txt,Fondo de Garantía Salarial,media,instance of,institución de garantía,concept
+articulo_33.txt,Tiempo de trabajo,concept,part of,Sección 5.a,media
+articulo_55.txt,Forma y efectos del despido disciplinario,concept,facet of,despido disciplinario,concept
+articulo_55.txt,notificado por escrito,concept,facet of,despido,concept
+articulo_55.txt,despido,concept,part of,convenio colectivo,concept
+articulo_55.txt,representante legal de los trabajadores,concept,subclass of,delegado sindical,concept
+articulo_55.txt,sección sindical,concept,part of,sindicato,concept
+articulo_55.txt,salarios,concept,part of,Seguridad Social,concept
+articulo_55.txt,procedente,concept,opposite of,improcedente,concept
+articulo_55.txt,improcedente,concept,opposite of,procedente,concept
+articulo_55.txt,escrito de comunicación,concept,subclass of,comunicación,concept
+articulo_55.txt,libertades públicas,concept,subclass of,derechos fundamentales,concept
+articulo_55.txt,despido,concept,subclass of,despido,concept
+articulo_55.txt,parto,concept,has cause,lactancia natural,concept
+articulo_55.txt,trabajadoras embarazadas,concept,subclass of,trabajadoras,concept
+articulo_55.txt,"contrato por nacimiento, adopción, guarda con fines de adopción o acogimiento",concept,follows,"contrato por nacimiento, adopción, adopción o guarda con fines de adopción o el acogimiento",concept
+articulo_55.txt,excedencia,concept,part of,derecho a los permisos y excedencia,concept
+articulo_55.txt,readmisión,concept,subclass of,despido,concept
+articulo_55.txt,contrato de trabajo,concept,has quality,indemnización,concept
+articulo_44.txt,sucesión,concept,subclass of,empresa,concept
+articulo_44.txt,unidad productiva autónoma,concept,subclass of,empresa,concept
+articulo_44.txt,empresa,concept,subclass of,entidad económica,concept
+articulo_44.txt,Seguridad Social,concept,subclass of,obligaciones laborales,concept
+articulo_44.txt,transmisión,concept,subclass of,delito,concept
+articulo_44.txt,centro de trabajo,concept,subclass of,unidad productiva autónoma,concept
+articulo_44.txt,convenio colectivo,concept,main subject,entidad económica,concept
+articulo_44.txt,empresario,concept,field of this occupation,empresa,concept
+articulo_44.txt,cedente,concept,opposite of,cesionario,concept
+articulo_44.txt,cesionario,concept,opposite of,cedente,concept
+articulo_44.txt,transmisión,concept,has quality,Fecha,concept
+articulo_44.txt,Motivos de la transmisión,concept,facet of,transmisión,concept
+articulo_44.txt,económicas,concept,subclass of,Consecuencias jurídicas,concept
+articulo_44.txt,d) Medidas previstas respecto de los trabajadores,concept,subclass of,Medidas previstas respecto de los trabajadores,concept
+articulo_44.txt,cedente,concept,opposite of,cesionario,concept
+articulo_44.txt,cesionario,concept,opposite of,cedente,concept
+articulo_44.txt,de trabajo,concept,part of,empleo,concept
+articulo_44.txt,fusión,concept,different from,escisión,concept
+articulo_44.txt,escisión,concept,different from,fusión,concept
+articulo_44.txt,41,concept,follows,40,concept
+articulo_44.txt,cedente,concept,opposite of,cesionario,concept
+articulo_44.txt,cesionario,concept,opposite of,cedente,concept
+articulo_44.txt,Sección 3.a Suspensión del contrato,concept,part of,contrato,concept
+articulo_64.txt,Derechos de información y consulta,concept,subclass of,competencias,concept
+articulo_64.txt,empresario,concept,field of this occupation,empresa,concept
+articulo_64.txt,informe previo,concept,subclass of,consulta,concept
+articulo_64.txt,empresario,concept,field of this occupation,empresa,concept
+articulo_64.txt,trimestralmente,concept,subclass of,trimestre,concept
+articulo_64.txt,sector económico,concept,facet of,empresa,concept
+articulo_64.txt,ventas,concept,part of,producción,concept
+articulo_64.txt,contratos a tiempo parcial,concept,subclass of,contratos,concept
+articulo_64.txt,absentismo,concept,subclass of,accidentes de trabajo,concept
+articulo_64.txt,igualdad entre mujeres y hombres,concept,subclass of,igualdad de trato y de oportunidades entre mujeres y hombres,concept
+articulo_64.txt,comité de empresa,concept,subclass of,periodicidad,concept
+articulo_64.txt,acciones,concept,part of,sociedad,concept
+articulo_64.txt,participaciones,concept,part of,sociedad,concept
+articulo_64.txt,contrato de trabajo,concept,part of,relación laboral,concept
+articulo_64.txt,faltas,concept,subclass of,sanciones,concept
+articulo_64.txt,prórrogas,concept,subclass of,contratos,concept
+articulo_64.txt,centro de trabajo,concept,part of,empresa,concept
+articulo_64.txt,contratos de trabajo,concept,part of,organización del trabajo,concept
+articulo_64.txt,informe,concept,subclass of,informe,concept
+articulo_64.txt,totales,concept,opposite of,parciales,concept
+articulo_64.txt,parciales,concept,opposite of,totales,concept
+articulo_64.txt,reducciones de jornada,concept,subclass of,jornada,concept
+articulo_64.txt,traslado total o parcial de las instalaciones,concept,facet of,instalaciones,concept
+articulo_64.txt,fusión,concept,subclass of,empresa,concept
+articulo_64.txt,formación profesional,concept,subclass of,formación,concept
+articulo_64.txt,control del trabajo,concept,subclass of,sistemas de organización,concept
+articulo_64.txt,comité de empresa,concept,participant,empresario,concept
+articulo_64.txt,empresario,concept,field of this occupation,empresa,concept
+articulo_64.txt,comité de empresa,concept,field of work,informes,concept
+articulo_64.txt,competencias,concept,subclass of,competencias,concept
+articulo_64.txt,Ejercer,concept,subclass of,labor,concept
+articulo_64.txt,empresario,concept,field of this occupation,empleo,concept
+articulo_64.txt,seguridad,concept,facet of,salud,concept
+articulo_64.txt,igualdad de trato,concept,subclass of,oportunidades,concept
+articulo_64.txt,convenio colectivo,concept,participant,empresa,concept
+articulo_64.txt,sostenibilidad ambiental,concept,facet of,empresa,concept
+articulo_64.txt,medidas de conciliación,concept,facet of,conciliación,concept
+articulo_64.txt,relaciones laborales,concept,participant,representados,concept
+articulo_64.txt,ley,concept,subclass of,normas legales,concept
+articulo_64.txt,consulta,concept,subclass of,derechos de información,concept
+articulo_62.txt,Delegados de personal,concept,subclass of,Delegados,concept
+articulo_62.txt,centro de trabajo,concept,part of,empresa,concept
+articulo_62.txt,delegados de personal,concept,subclass of,sufragio,concept
+articulo_62.txt,comités de empresa,concept,participant,empresario,concept
+articulo_62.txt,comités de empresa,concept,field of work,sigilo profesional,concept
+articulo_11.txt,Contratos formativos,concept,subclass of,formativos,concept
+articulo_11.txt,Formación Profesional,concept,subclass of,formación profesional,concept
+articulo_11.txt,convenios colectivos sectoriales,concept,subclass of,convenio colectivo,concept
+articulo_11.txt,convenios colectivos,concept,opposite of,convenios colectivos sectoriales,concept
+articulo_11.txt,convenios colectivos sectoriales,concept,opposite of,convenios colectivos,concept
+articulo_11.txt,riesgo durante el embarazo,concept,subclass of,violencia de género,concept
+articulo_11.txt,certificado de profesionalidad,concept,instance of,titulación,concept
+articulo_11.txt,certificado de profesionalidad,concept,instance of,titulación,concept
+articulo_11.txt,grado,concept,subclass of,título superior,concept
+articulo_11.txt,máster,concept,subclass of,título superior,concept
+articulo_11.txt,doctorado,concept,subclass of,título superior,concept
+articulo_11.txt,certificado de profesionalidad de nivel 1,concept,follows,título de grado medio,concept
+articulo_11.txt,certificado de profesionalidad de nivel 3,concept,follows,certificado de profesionalidad de nivel 1,concept
+articulo_11.txt,sesenta,concept,instance of,salario,concept
+articulo_11.txt,setenta,concept,instance of,salario,concept
+articulo_11.txt,cinco por ciento,concept,instance of,salario,concept
+articulo_11.txt,prueba,concept,part of,contrato,concept
+articulo_11.txt,formación profesional para el empleo,concept,subclass of,formación,concept
+articulo_11.txt,aprendizaje,concept,part of,formación,concept
+articulo_11.txt,contrato en prácticas,concept,subclass of,contrato,concept
+articulo_11.txt,exclusión social,concept,subclass of,discapacidad,concept
+articulo_11.txt,año,concept,subclass of,duración,concept
+articulo_11.txt,meses,concept,measured physical quantity,duración,concept
+articulo_11.txt,riesgo durante el embarazo,concept,subclass of,violencia de género,concept
+articulo_11.txt,contrato para la formación y el aprendizaje,concept,subclass of,contrato,concept
+articulo_11.txt,contrato,concept,subclass of,contrato,concept
+articulo_11.txt,disposición adicional quinta,concept,part of,"Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional",concept
+articulo_11.txt,trabajador,concept,field of this occupation,actividad laboral,concept
+articulo_11.txt,formación complementaria,concept,subclass of,formación,concept
+articulo_11.txt,financiación,concept,facet of,actividad formativa,concept
+articulo_11.txt,certificado de profesionalidad,concept,subclass of,título de formación profesional,concept
+articulo_11.txt,horas extraordinarias,concept,opposite of,trabajo a turnos,concept
+articulo_11.txt,trabajo a turnos,concept,opposite of,horas extraordinarias,concept
+articulo_11.txt,aprendizaje,concept,part of,formación,concept
+articulo_11.txt,salario mínimo interprofesional,concept,subclass of,retribución,concept
+articulo_11.txt,desempleo,concept,part of,Seguridad Social,concept
+articulo_11.txt,contrato,concept,part of,empresa,concept
+articulo_11.txt,contratos formativos,concept,part of,negociación colectiva,concept
+articulo_46.txt,Excedencias,concept,has quality,Excedencias.,concept
+articulo_46.txt,voluntaria,concept,subclass of,excedencia,concept
+articulo_46.txt,forzosa,concept,subclass of,excedencia,concept
+articulo_46.txt,excedencia voluntaria,concept,subclass of,antigüedad,concept
+articulo_46.txt,adopción,concept,subclass of,guarda,concept
+articulo_46.txt,consanguinidad,concept,subclass of,enfermedad,concept
+articulo_46.txt,hombres,concept,opposite of,mujeres,concept
+articulo_46.txt,mujeres,concept,opposite of,hombres,concept
+articulo_46.txt,excedencia,concept,subclass of,derecho,concept
+articulo_46.txt,categoría equivalente,concept,subclass of,puesto de trabajo,concept
+articulo_46.txt,categoría general,concept,different from,categoría especial,concept
+articulo_46.txt,categoría especial,concept,different from,categoría general,concept
+articulo_46.txt,excedencia en la empresa,concept,instance of,funciones sindicales,concept
+articulo_46.txt,derecho preferente,concept,subclass of,derecho,concept
+articulo_46.txt,excedencia,concept,part of,régimen,concept
+articulo_51.txt,Despido colectivo,concept,subclass of,Despido,concept
+articulo_51.txt,despido colectivo,concept,subclass of,extinción de contratos de trabajo,concept
+articulo_51.txt,trabajadores,concept,part of,empresas,concept
+articulo_51.txt,trabajadores,concept,part of,empresa,concept
+articulo_51.txt,trabajadores,concept,part of,empresas,concept
+articulo_51.txt,trimestre,concept,part of,año,concept
+articulo_51.txt,causas técnicas,concept,opposite of,causas productivas,concept
+articulo_51.txt,causas productivas,concept,opposite of,causas técnicas,concept
+articulo_51.txt,plantilla,concept,part of,empresa,concept
+articulo_51.txt,extinciones de contratos,concept,subclass of,contrato,concept
+articulo_51.txt,extinciones de contratos,concept,subclass of,fraude de ley,concept
+articulo_51.txt,despidos colectivos,concept,subclass of,despido,concept
+articulo_51.txt,interlocutores,concept,part of,procedimiento de consultas,concept
+articulo_51.txt,despido colectivo,concept,subclass of,despido,concept
+articulo_51.txt,representantes de los trabajadores,concept,subclass of,autoridad laboral,concept
+articulo_51.txt,empresario,concept,field of this occupation,trabajadores,concept
+articulo_51.txt,causas del despido colectivo,concept,facet of,despido,concept
+articulo_51.txt,Número y clasificación profesional de los trabajadores afectados por el despido,concept,facet of,despido,concept
+articulo_51.txt,Número y clasificación profesional,concept,facet of,trabajadores,concept
+articulo_51.txt,Periodo previsto para la realización de los despidos,concept,subclass of,despido,concept
+articulo_51.txt,despido,concept,has cause,trabajadores afectados por los despidos,concept
+articulo_51.txt,despido colectivo,concept,subclass of,despido,concept
+articulo_51.txt,comisión negociadora,concept,subclass of,Representantes de los trabajadores,concept
+articulo_51.txt,despido colectivo,concept,participant,autoridad laboral,concept
+articulo_51.txt,Inspección de Trabajo y Seguridad Social,concept,subsidiary,entidad gestora de las prestaciones por desempleo,concept
+articulo_51.txt,acuerdo,concept,part of,negociar,concept
+articulo_51.txt,representantes legales de los trabajadores,concept,part of,comisión representativa de los trabajadores,concept
+articulo_51.txt,arbitraje,concept,subclass of,mediación,concept
+articulo_51.txt,consultas,concept,subclass of,mediación,concept
+articulo_51.txt,despido colectivo,concept,participant,autoridad laboral,concept
+articulo_51.txt,procedimiento de despido colectivo,concept,facet of,despido colectivo,concept
+articulo_51.txt,empresario,concept,field of this occupation,empresa,concept
+articulo_51.txt,empresario,concept,field of this occupation,trabajadores,concept
+articulo_51.txt,convenio colectivo,concept,subclass of,acuerdo,concept
+articulo_51.txt,despido,concept,subclass of,decisión empresarial,concept
+articulo_51.txt,desempleo,concept,has cause,situación legal de desempleo,concept
+articulo_51.txt,extinción de los contratos de trabajo,concept,has cause,fuerza mayor,concept
+articulo_51.txt,parte interesada,concept,part of,empresa,concept
+articulo_51.txt,extinción de los contratos,concept,has cause,fuerza mayor,concept
+articulo_51.txt,Fondo de Garantía Salarial,media,instance of,autoridad laboral,concept
+articulo_51.txt,empresario,concept,field of this occupation,empresa,concept
+articulo_51.txt,1967,time,point in time,1 de enero de 1967,date
+articulo_51.txt,despido colectivo,concept,subclass of,plan de recolocación,concept
+articulo_51.txt,servicio público de empleo,concept,subclass of,autoridad laboral,concept
+articulo_51.txt,reclamación,concept,subclass of,reclamación,concept
+articulo_51.txt,aportación económica,concept,part of,Tesoro Público,concept
+articulo_27.txt,Salario mínimo interprofesional,unk,is a list of,interprofesional,concept
+articulo_27.txt,salario mínimo interprofesional,concept,creator,Gobierno,org
+articulo_27.txt,precios de consumo,concept,instance of,índice,concept
+articulo_27.txt,productividad media nacional,concept,measured physical quantity,productividad,concept
+articulo_27.txt,participación del trabajo,concept,facet of,renta nacional,concept
+articulo_27.txt,coyuntura económica general,concept,subclass of,coyuntura económica,concept
+articulo_27.txt,revisión semestral,concept,facet of,índice de precios,concept
+articulo_27.txt,salarios profesionales,concept,subclass of,salario mínimo,concept
+articulo_27.txt,salario mínimo interprofesional,concept,subclass of,salario mínimo,concept
+articulo_8.txt,Forma del contrato,concept,facet of,contrato,concept
+articulo_8.txt,retribución,concept,part of,contrato de trabajo,concept
+articulo_8.txt,España,loc,diplomatic relation,extranjero,loc
+articulo_8.txt,extranjero,loc,diplomatic relation,España,loc
+articulo_8.txt,contrato,concept,part of,relación laboral,concept
+articulo_8.txt,contratos de trabajo,concept,participant,empresario,concept
+articulo_8.txt,alta dirección,concept,subclass of,relación laboral,concept
+articulo_8.txt,información facilitada,concept,facet of,protección de datos,concept
+articulo_8.txt,contrato,concept,participant,empresario,concept
+articulo_8.txt,representación legal,concept,part of,oficina de empleo,concept
+articulo_8.txt,asociaciones empresariales,concept,subclass of,organizaciones sindicales,concept
+articulo_8.txt,contrato de trabajo,concept,subclass of,contrato,concept
+articulo_37.txt,Descanso,concept,subclass of,fiestas,concept
+articulo_37.txt,sábado,concept,subclass of,día,concept
+articulo_37.txt,lunes,concept,subclass of,día,concept
+articulo_37.txt,lunes,concept,follows,sábado,concept
+articulo_37.txt,domingo,concept,subclass of,día,concept
+articulo_37.txt,domingo,concept,follows,lunes,concept
+articulo_37.txt,descanso semanal,concept,subclass of,descanso,concept
+articulo_37.txt,Natividad del Señor,time,country,España,loc
+articulo_37.txt,Año Nuevo,time,country,España,loc
+articulo_37.txt,Fiesta del Trabajo,concept,country,España,loc
+articulo_37.txt,Fiesta Nacional,time,country,España,loc
+articulo_37.txt,España,loc,public holiday,Natividad del Señor,time
+articulo_37.txt,España,loc,public holiday,Año Nuevo,time
+articulo_37.txt,lunes,concept,follows,domingo,concept
+articulo_37.txt,lunes,concept,subclass of,días festivos,concept
+articulo_37.txt,domingo,concept,part of,comunidad autónoma,concept
+articulo_37.txt,remuneración,concept,facet of,trabajo,concept
+articulo_37.txt,matrimonio,concept,has quality,Quince días naturales,concept
+articulo_37.txt,intervención quirúrgica,concept,subclass of,enfermedad,concept
+articulo_37.txt,traslado,concept,subclass of,traslado,concept
+articulo_37.txt,sufragio,concept,subclass of,deber,concept
+articulo_37.txt,excedencia regulada,concept,main regulatory text,artículo 46,concept
+articulo_37.txt,indemnización,concept,subclass of,salario,concept
+articulo_37.txt,representación del personal,concept,subclass of,funciones sindicales,concept
+articulo_37.txt,adopción,concept,has cause,parto,concept
+articulo_37.txt,guarda con fines de adopción o acogimiento,concept,different from,guarda con fines de adopción o acogimiento múltiples,concept
+articulo_37.txt,guarda con fines de adopción o acogimiento múltiples,concept,different from,guarda con fines de adopción o acogimiento,concept
+articulo_37.txt,acuerdo,concept,part of,negociación colectiva,concept
+articulo_37.txt,acogedor,concept,instance of,derecho individual,concept
+articulo_37.txt,guardadores,concept,instance of,derecho,concept
+articulo_37.txt,acogedores,concept,instance of,derecho,concept
+articulo_37.txt,parto,concept,has cause,hijo,concept
+articulo_37.txt,disminución proporcional del salario,concept,subclass of,reducción de la jornada de trabajo diaria,concept
+articulo_37.txt,consanguinidad,concept,subclass of,afinidad,concept
+articulo_37.txt,melanoma,concept,subclass of,cáncer,concept
+articulo_37.txt,carcinoma,concept,subclass of,cáncer,concept
+articulo_37.txt,hombres,concept,opposite of,mujeres,concept
+articulo_37.txt,mujeres,concept,opposite of,hombres,concept
+articulo_37.txt,reducción de jornada,concept,part of,convenios colectivos,concept
+articulo_37.txt,Ley 36/2011,media,main subject,Reguladora de la Jurisdicción Social,concept
+articulo_37.txt,horario flexible,concept,subclass of,horario,concept
+articulo_37.txt,acuerdo entre la empresa y los trabajadores afectados,concept,subclass of,acuerdos entre la empresa y los representantes de los trabajadores,concept
+articulo_12.txt,Contrato a tiempo parcial,concept,subclass of,contrato de relevo,concept
+articulo_12.txt,día,concept,part of,hora,concept
+articulo_12.txt,semana,concept,part of,mes,concept
+articulo_12.txt,mes,concept,part of,año,concept
+articulo_12.txt,trabajador a tiempo completo,concept,part of,contrato de trabajo,concept
+articulo_12.txt,contrato para la formación y el aprendizaje,concept,subclass of,contratación,concept
+articulo_12.txt,contrato a tiempo parcial,concept,subclass of,contrato,concept
+articulo_12.txt,contrato a tiempo parcial,concept,facet of,tiempo parcial,concept
+articulo_12.txt,día,concept,part of,semana,concept
+articulo_12.txt,jornada completa,concept,subclass of,contrato,concept
+articulo_12.txt,contrato a tiempo parcial,concept,subclass of,convenio colectivo,concept
+articulo_12.txt,horas extraordinarias,concept,part of,tiempo parcial,concept
+articulo_12.txt,horas complementarias,concept,subclass of,horas,concept
+articulo_12.txt,horas ordinarias,concept,part of,trabajo a tiempo parcial,concept
+articulo_12.txt,complementarias,concept,part of,trabajo a tiempo parcial,concept
+articulo_12.txt,voluntarias,concept,part of,trabajo a tiempo parcial,concept
+articulo_12.txt,ordinarias,concept,subclass of,horas,concept
+articulo_12.txt,complementarias,concept,subclass of,horas,concept
+articulo_12.txt,registros de jornada,concept,facet of,jornada,concept
+articulo_12.txt,jornada completa,concept,subclass of,contrato,concept
+articulo_12.txt,mujeres,concept,opposite of,hombres,concept
+articulo_12.txt,hombres,concept,opposite of,mujeres,concept
+articulo_12.txt,despedido,concept,subclass of,sanción,concept
+articulo_12.txt,trabajo a tiempo parcial,concept,opposite of,trabajo a tiempo completo,concept
+articulo_12.txt,trabajo a tiempo parcial,concept,opposite of,trabajo a tiempo parcial,concept
+articulo_12.txt,trabajo a tiempo parcial,concept,opposite of,trabajo a tiempo completo,concept
+articulo_12.txt,trabajo a tiempo parcial,concept,opposite of,trabajo a tiempo parcial,concept
+articulo_12.txt,trabajo a tiempo parcial,concept,opposite of,trabajo a tiempo completo,concept
+articulo_12.txt,trabajo a tiempo parcial,concept,opposite of,trabajo a tiempo parcial,concept
+articulo_12.txt,motivada,concept,subclass of,escrito,concept
+articulo_12.txt,formación profesional continua,concept,subclass of,profesionales,concept
+articulo_12.txt,horas complementarias,concept,opposite of,horas ordinarias,concept
+articulo_12.txt,horas ordinarias,concept,opposite of,horas complementarias,concept
+articulo_12.txt,horas complementarias,concept,part of,contrato,concept
+articulo_12.txt,horas semanales,concept,part of,jornada de trabajo,concept
+articulo_12.txt,horas complementarias,concept,part of,pacto de horas complementarias,concept
+articulo_12.txt,horas complementarias,concept,opposite of,horas ordinarias,concept
+articulo_12.txt,horas ordinarias,concept,opposite of,horas complementarias,concept
+articulo_12.txt,horas complementarias,concept,part of,día,concept
+articulo_12.txt,horas complementarias,concept,instance of,pacto,concept
+articulo_12.txt,responsabilidades familiares,concept,main regulatory text,artículo 37,org
+articulo_12.txt,incompatibilidad horaria,concept,facet of,Necesidades formativas,concept
+articulo_12.txt,contrato a tiempo parcial,concept,subclass of,contrato,concept
+articulo_12.txt,horas complementarias,concept,subclass of,horas,concept
+articulo_12.txt,horas complementarias,concept,opposite of,horas ordinarias,concept
+articulo_12.txt,horas ordinarias,concept,opposite of,horas complementarias,concept
+articulo_12.txt,c,concept,instance of,letra,concept
+articulo_12.txt,descanso,concept,part of,jornada,concept
+articulo_12.txt,cotización a la Seguridad Social,concept,part of,Seguridad Social,concept
+articulo_12.txt,texto refundido de la Ley General de la Seguridad Social,concept,part of,Ley General de la Seguridad Social,media
+articulo_12.txt,texto refundido de la Ley General de la Seguridad Social,concept,part of,Ley General de la Seguridad Social,media
+articulo_12.txt,pensión,concept,part of,Seguridad Social,concept
+articulo_12.txt,jubilación,concept,facet of,relación laboral,concept
+articulo_12.txt,contrato de relevo,concept,subclass of,contrato,concept
+articulo_12.txt,desempleo,concept,subclass of,trabajador,concept
+articulo_12.txt,texto refundido,concept,part of,Ley General de la Seguridad Social,media
+articulo_12.txt,texto refundido,concept,part of,Ley General de la Seguridad Social,media
+articulo_12.txt,contrato de relevo,concept,main regulatory text,Ley General de la Seguridad Social,media
+articulo_12.txt,jornada completa,concept,opposite of,tiempo parcial,concept
+articulo_12.txt,tiempo parcial,concept,opposite of,jornada completa,concept
+articulo_12.txt,texto refundido,concept,part of,Ley General de la Seguridad Social,media
+articulo_12.txt,contratos de relevo,concept,part of,negociación colectiva,concept
+articulo_78.txt,Lugar de reunión,concept,part of,reunión,concept
+articulo_78.txt,centro de trabajo,concept,use,reunión,concept
+articulo_78.txt,asamblea,concept,participant,empresario,concept
+articulo_78.txt,disposiciones,concept,part of,ley,concept
+articulo_78.txt,última reunión celebrada,concept,follows,reunión celebrada,concept
+articulo_78.txt,resarcimiento,concept,has cause,resarcido,concept
+articulo_78.txt,Cierre legal,concept,part of,empresa,concept
+articulo_78.txt,letra b,concept,part of,convenios colectivos,concept
+articulo_77.txt,asambleas de trabajadores,concept,facet of,trabajadores,concept
+articulo_77.txt,centro de trabajo,concept,subclass of,empresa,concept
+articulo_77.txt,presidencia,concept,subclass of,empresario,concept
+articulo_77.txt,turnos,concept,subclass of,reuniones parciales,concept
+articulo_66.txt,Composición,concept,has quality,Composición,concept
+articulo_66.txt,comité de empresa,concept,instance of,escala,concept
+articulo_66.txt,cincuenta,concept,part of,cien,concept
+articulo_66.txt,cien,concept,follows,cincuenta,concept
+articulo_66.txt,doscientos cincuenta trabajadores,concept,part of,ciento uno a doscientos cincuenta trabajadores,concept
+articulo_66.txt,trece,concept,follows,cincuenta y uno,concept
+articulo_66.txt,cincuenta,concept,follows,quinientos,concept
+articulo_66.txt,veintiuno,concept,follows,cincuenta y uno,concept
+articulo_66.txt,setenta,concept,part of,mil,concept
+articulo_66.txt,cinco,concept,part of,mil,concept
+articulo_66.txt,centro de trabajo,concept,subclass of,empresa,concept
+articulo_66.txt,tercio de sus miembros,concept,opposite of,tercio de los trabajadores,concept
+articulo_66.txt,tercio de los trabajadores,concept,opposite of,tercio de sus miembros,concept
+articulo_65.txt,sigilo,concept,subclass of,Capacidad,concept
+articulo_65.txt,órgano colegiado,concept,subclass of,comité de empresa,concept
+articulo_65.txt,sigilo,concept,instance of,deber,concept
+articulo_65.txt,documento,concept,manufacturer,empresa,concept
+articulo_65.txt,mandato,concept,subclass of,deber,concept
+articulo_65.txt,comerciales,concept,subclass of,empresa,concept
+articulo_65.txt,volumen de empleo,concept,facet of,empresa,concept
+articulo_65.txt,"Ley 36/2011, de 10 de octubre, reguladora de la Jurisdicción Social",concept,part of,"Ley 36/2011, de 10 de octubre, reguladora de la Jurisdicción Social",concept
+articulo_65.txt,sigilo,concept,subclass of,litigios,concept
+articulo_65.txt,Ley sobre Infracciones y Sanciones en el Orden Social,concept,instance of,Real Decreto Legislativo,concept
+articulo_7.txt,Capacidad para contratar,concept,facet of,contratar,concept
+articulo_7.txt,prestación,concept,subclass of,trabajo,concept
+articulo_7.txt,capacidad de obrar,concept,main regulatory text,Código Civil,concept
+articulo_7.txt,mayores de dieciséis años,concept,follows,menores de dieciocho,concept
+articulo_7.txt,contrato,concept,subclass of,derechos,concept
+articulo_7.txt,extranjeros,concept,main regulatory text,legislación específica sobre la materia,concept
+articulo_76.txt,Reclamaciones en materia electoral,concept,facet of,electoral,concept
+articulo_76.txt,procedimiento arbitral,concept,subclass of,reclamaciones,concept
+articulo_76.txt,representantes elegidos,concept,part of,proceso electoral,concept
+articulo_76.txt,procedimiento arbitral,concept,subclass of,procedimiento,concept
+articulo_76.txt,delegados,concept,part of,sindicatos,concept
+articulo_76.txt,árbitros,concept,subclass of,mandato,concept
+articulo_76.txt,árbitros,concept,field of this occupation,Administración laboral,concept
+articulo_76.txt,abstenerse,concept,opposite of,recusados,concept
+articulo_76.txt,recusados,concept,opposite of,abstenerse,concept
+articulo_76.txt,interés personal,concept,facet of,asunto,concept
+articulo_76.txt,sociedad,concept,subclass of,entidad interesada,concept
+articulo_76.txt,asesores,concept,field of this occupation,arbitraje,concept
+articulo_76.txt,enemistad,concept,subclass of,amistad,concept
+articulo_76.txt,persona natural,concept,opposite of,jurídica,concept
+articulo_76.txt,jurídica,concept,opposite of,persona natural,concept
+articulo_76.txt,elecciones objeto de impugnación,concept,subclass of,procedimiento arbitral,concept
+articulo_76.txt,arbitraje,concept,part of,procedimiento arbitral,concept
+articulo_76.txt,expediente electoral,concept,subclass of,expediente,concept
+articulo_76.txt,expediente administrativo electoral,concept,part of,autoridad laboral,concept
+articulo_76.txt,registro del acta,concept,subclass of,registro,concept
+articulo_76.txt,modalidad procesal,concept,part of,orden jurisdiccional social,concept
+articulo_76.txt,CAPÍTULO II,media,follows,CAPÍTULO I,media
+articulo_76.txt,Del derecho de reunión,concept,facet of,reunión,concept
+articulo_6.txt,Trabajo de los menores,concept,facet of,menores,concept
+articulo_6.txt,admisión al trabajo,concept,subclass of,trabajo,concept
+articulo_6.txt,trabajos nocturnos,concept,subclass of,puestos de trabajo,concept
+articulo_6.txt,horas extraordinarias,concept,subclass of,horas,concept
+articulo_6.txt,espectáculos públicos,concept,subclass of,intervención,concept
+articulo_4.txt,Derechos laborales,concept,subclass of,Derecho,concept
+articulo_4.txt,derechos básicos,concept,subclass of,normativa,concept
+articulo_4.txt,oficio,concept,subclass of,profesión,concept
+articulo_4.txt,Libre sindicación,concept,subclass of,Libre sindicación,concept
+articulo_4.txt,Negociación colectiva,concept,subclass of,Negociación,concept
+articulo_4.txt,Adopción de medidas de conflicto colectivo,concept,facet of,conflicto colectivo,concept
+articulo_4.txt,Huelga,loc,located in the administrative territorial entity,Huelga,loc
+articulo_4.txt,Reunión,loc,located in the administrative territorial entity,Reunión,loc
+articulo_4.txt,participación,concept,subclass of,Información,concept
+articulo_4.txt,derecho,concept,part of,relación de trabajo,concept
+articulo_4.txt,ocupación efectiva,concept,subclass of,ocupación,concept
+articulo_4.txt,formación profesional en el trabajo,concept,facet of,empleabilidad,concept
+articulo_4.txt,Estado español,loc,official language,lengua,concept
+articulo_4.txt,discapacidad,concept,has quality,aptitud,concept
+articulo_4.txt,prevención de riesgos laborales,concept,facet of,integridad física,concept
+articulo_4.txt,acoso por razón de origen racial o étnico,concept,subclass of,acoso,concept
+articulo_4.txt,acoso por razón de sexo,concept,subclass of,acoso,concept
+articulo_4.txt,remuneración,concept,subclass of,remuneración,concept
+articulo_4.txt,contrato de trabajo,concept,subclass of,acciones,concept
+articulo_4.txt,contrato de trabajo,concept,subclass of,contrato,concept
+articulo_15.txt,Duración del contrato,concept,facet of,contrato,concept
+articulo_15.txt,duración,concept,part of,tiempo,concept
+articulo_15.txt,contratos,concept,has quality,duración,concept
+articulo_15.txt,convenio colectivo de ámbito sectorial,concept,opposite of,convenio colectivo sectorial de ámbito inferior,concept
+articulo_15.txt,convenio colectivo sectorial de ámbito inferior,concept,opposite of,convenio colectivo de ámbito sectorial,concept
+articulo_15.txt,convenios de empresa,concept,subclass of,contratos,concept
+articulo_15.txt,convenio colectivo sectorial de ámbito inferior,concept,subclass of,convenio colectivo,concept
+articulo_15.txt,duración máxima,concept,subclass of,duración,concept
+articulo_15.txt,plantilla,concept,part of,empresa,concept
+articulo_15.txt,sustituido,concept,part of,contrato de trabajo,concept
+articulo_15.txt,trabajadores fijos,concept,part of,Seguridad Social,concept
+articulo_15.txt,contratos temporales,concept,subclass of,fraude de ley,concept
+articulo_15.txt,contratación por tiempo determinado,concept,subclass of,contratos,concept
+articulo_15.txt,trabajadores fijos,concept,subclass of,trabajadores,concept
+articulo_15.txt,subrogación empresarial,concept,subclass of,sucesión,concept
+articulo_15.txt,contratos de puesta a disposición,concept,subclass of,contratos de duración determinada,concept
+articulo_15.txt,contratos formativos,concept,subclass of,contratos temporales,concept
+articulo_15.txt,contratos formativos,concept,subclass of,contrato,concept
+articulo_15.txt,trabajador,concept,part of,contrato,concept
+articulo_15.txt,contratos formativos,concept,subclass of,contratos,concept
+articulo_15.txt,contratos,concept,has quality,duración,concept
+articulo_15.txt,cualificación,concept,part of,formación profesional,concept
+articulo_15.txt,trabajador fijo,concept,subclass of,trabajador,concept
+articulo_73.txt,Mesa electoral,concept,part of,Mesa electoral,concept
+articulo_73.txt,colegio,concept,part of,centro de trabajo,concept
+articulo_73.txt,votación,concept,part of,proceso electoral,concept
+articulo_73.txt,mayor,concept,opposite of,menor,concept
+articulo_73.txt,menor,concept,opposite of,mayor,concept
+articulo_73.txt,candidato,concept,opposite of,suplente,concept
+articulo_73.txt,suplente,concept,opposite of,candidato,concept
+articulo_73.txt,votación,concept,opposite of,escrutinio,concept
+articulo_73.txt,escrutinio,concept,opposite of,votación,concept
+articulo_87.txt,Legitimación,concept,has quality,Legitimación,concept
+articulo_87.txt,comité de empresa,concept,part of,convenios de empresa,concept
+articulo_87.txt,delegados de personal,concept,part of,secciones sindicales,concept
+articulo_87.txt,convenios sectoriales,concept,subclass of,convenios,concept
+articulo_87.txt,secciones sindicales,concept,part of,convenios,concept
+articulo_87.txt,convenios sectoriales,concept,subclass of,convenio,concept
+articulo_87.txt,federadas,concept,subclass of,organizaciones sindicales,concept
+articulo_87.txt,confederadas,concept,subclass of,organizaciones sindicales,concept
+articulo_87.txt,federadas,concept,subclass of,organizaciones sindicales,concept
+articulo_87.txt,confederadas,concept,subclass of,organizaciones sindicales,concept
+articulo_87.txt,comités de empresa,concept,subclass of,sindicatos,concept
+articulo_87.txt,empresario,concept,field of this occupation,negociar,concept
+articulo_87.txt,convenios de empresa,concept,participant,empresario,concept
+articulo_87.txt,empresa,concept,different from,empresa,concept
+articulo_87.txt,empresa,concept,different from,empresa,concept
+articulo_87.txt,empresario,concept,field of this occupation,asociaciones empresariales,concept
+articulo_87.txt,empresario,concept,field of this occupation,asociaciones empresariales,concept
+articulo_87.txt,convenios colectivos de sector,concept,subclass of,convenios,concept
+articulo_87.txt,"Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical",media,applies to jurisdiction,comunidad autónoma,loc
+articulo_87.txt,confederación sindical,concept,subclass of,sindicato,concept
+articulo_34.txt,Jornada,concept,named after,Jornada.,per
+articulo_34.txt,contratos de trabajo,concept,subclass of,convenios colectivos,concept
+articulo_34.txt,horas,concept,measured physical quantity,duración,concept
+articulo_34.txt,convenio colectivo,concept,subclass of,acuerdo,concept
+articulo_34.txt,descanso,concept,part of,prestación de trabajo,concept
+articulo_34.txt,jornada ordinaria,concept,subclass of,jornada,concept
+articulo_34.txt,horas,concept,part of,hora,concept
+articulo_34.txt,descanso,concept,subclass of,descanso,concept
+articulo_34.txt,horas diarias,concept,part of,trabajo efectivo,concept
+articulo_34.txt,horas,concept,measured physical quantity,duración,concept
+articulo_34.txt,minutos,concept,part of,hora,concept
+articulo_34.txt,jornada diaria,concept,subclass of,tiempo de trabajo,concept
+articulo_34.txt,calendario laboral,concept,used by,empresa,concept
+articulo_34.txt,"Ministerio de Trabajo, Migraciones y Seguridad Social",org,part of,Gobierno,org
+articulo_34.txt,duración y distribución de la jornada de trabajo,concept,facet of,tiempo de trabajo,concept
+articulo_34.txt,hijos,concept,opposite of,hija,concept
+articulo_34.txt,hija,concept,opposite of,hijos,concept
+articulo_34.txt,directa,concept,opposite of,indirecta,concept
+articulo_34.txt,indirecta,concept,opposite of,directa,concept
+articulo_34.txt,jornada,concept,instance of,modalidad contractual,concept
+articulo_34.txt,permisos,concept,subclass of,derecho,concept
+articulo_34.txt,Ley 36/2011,media,main subject,Reguladora de la Jurisdicción Social,concept
+articulo_34.txt,flexibilidad horaria,concept,subclass of,horario,concept
+articulo_34.txt,acuerdo de empresa,concept,part of,negociación colectiva,concept
+articulo_34.txt,Inspección de Trabajo y Seguridad Social,concept,field of work,Seguridad Social,concept
+articulo_47.txt,Suspensión del contrato,concept,subclass of,reducción de jornada,concept
+articulo_47.txt,contrato de trabajo,concept,participant,empresario,concept
+articulo_47.txt,ingresos ordinarios,concept,opposite of,ventas,concept
+articulo_47.txt,ventas,concept,opposite of,ingresos ordinarios,concept
+articulo_47.txt,causas técnicas,concept,opposite of,causas productivas,concept
+articulo_47.txt,causas productivas,concept,opposite of,causas técnicas,concept
+articulo_47.txt,trabajadores,concept,part of,empresa,concept
+articulo_47.txt,comisión negociadora,concept,subclass of,consulta,concept
+articulo_47.txt,interlocutores,concept,part of,procedimiento de consultas,concept
+articulo_47.txt,representantes legales de los trabajadores,concept,subclass of,representantes,concept
+articulo_47.txt,representantes de los trabajadores,concept,subclass of,autoridad laboral,concept
+articulo_47.txt,Inspección de Trabajo y Seguridad Social,org,subsidiary,entidad gestora de las prestaciones por desempleo,concept
+articulo_47.txt,fraude,concept,subclass of,abuso de derecho,concept
+articulo_47.txt,representantes legales,concept,part of,comisión representativa de los trabajadores,concept
+articulo_47.txt,arbitraje,concept,subclass of,mediación,concept
+articulo_47.txt,prestación por desempleo,concept,participant,entidad gestora,concept
+articulo_47.txt,representantes de los trabajadores,concept,part of,autoridad laboral,concept
+articulo_47.txt,prestación por desempleo,concept,different from,desempleo,concept
+articulo_47.txt,desempleo,concept,different from,prestación por desempleo,concept
+articulo_47.txt,conflicto colectivo,concept,subclass of,acción individual,concept
+articulo_47.txt,reducción de jornada,concept,subclass of,jornada de trabajo,concept
+articulo_47.txt,jornada diaria,concept,subclass of,jornada de trabajo,concept
+articulo_47.txt,semanal,concept,subclass of,jornada de trabajo,concept
+articulo_47.txt,mensual,concept,subclass of,jornada de trabajo,concept
+articulo_47.txt,anual,concept,subclass of,jornada de trabajo,concept
+articulo_47.txt,fuerza mayor,concept,facet of,contrato de trabajo,concept
+articulo_47.txt,reducciones de jornada,concept,subclass of,suspensiones de contratos,concept
+articulo_30.txt,Imposibilidad de la prestación,concept,facet of,prestación,concept
+articulo_30.txt,salario,concept,part of,contrato,concept
+articulo_70.txt,Votación para delegados,concept,office contested,delegados,concept
+articulo_70.txt,delegados de personal,concept,subclass of,puestos,concept
+articulo_54.txt,Despido disciplinario,concept,subclass of,disciplinario,concept
+articulo_54.txt,despido,concept,has cause,contrato de trabajo,concept
+articulo_54.txt,contractuales,concept,subclass of,incumplimientos,concept
+articulo_54.txt,asistencia,concept,opposite of,puntualidad,concept
+articulo_54.txt,puntualidad,concept,opposite of,asistencia,concept
+articulo_54.txt,desobediencia,concept,subclass of,indisciplina,concept
+articulo_54.txt,empresario,concept,field of this occupation,empresa,concept
+articulo_54.txt,buena fe contractual,concept,subclass of,confianza,concept
+articulo_54.txt,voluntaria,concept,subclass of,rendimiento,concept
+articulo_54.txt,toxicomanía,concept,subclass of,embriaguez,concept
+articulo_54.txt,acoso por razón de origen racial o étnico,concept,subclass of,acoso,concept
+articulo_43.txt,Cesión de trabajadores,concept,facet of,trabajadores,concept
+articulo_43.txt,empresas de trabajo temporal,concept,subclass of,contratación de trabajadores,concept
+articulo_43.txt,empresario,concept,field of this occupation,empresa,concept
+articulo_43.txt,cedente,concept,opposite of,cesionario,concept
+articulo_43.txt,cesionario,concept,opposite of,cedente,concept
+articulo_43.txt,antigüedad,concept,facet of,puesto de trabajo,concept
+articulo_39.txt,Movilidad funcional,concept,subclass of,funcional,concept
+articulo_39.txt,trabajador,concept,part of,prestación laboral,concept
+articulo_39.txt,superiores,concept,opposite of,inferiores,concept
+articulo_39.txt,inferiores,concept,opposite of,superiores,concept
+articulo_39.txt,ascenso,concept,different from,diferencia salarial,concept
+articulo_39.txt,diferencia salarial,concept,different from,ascenso,concept
+articulo_39.txt,ineptitud sobrevenida,concept,subclass of,despido objetivo,concept
+articulo_39.txt,pactadas,concept,part of,convenio colectivo,concept
+articulo_1.txt,Ámbito de aplicación,concept,subclass of,aplicación,concept
+articulo_1.txt,empleador,concept,different from,empresario,concept
+articulo_1.txt,empresario,concept,different from,empleador,concept
+articulo_1.txt,empresas de trabajo,concept,subclass of,empresas,concept
+articulo_1.txt,ámbito regulado por esta ley,concept,instance of,ley,concept
+articulo_1.txt,Administraciones Públicas,concept,part of,sector público,concept
+articulo_1.txt,prestaciones personales,concept,subclass of,obligatorias,concept
+articulo_1.txt,sociedad,concept,instance of,forma jurídica,concept
+articulo_1.txt,buena vecindad,concept,subclass of,benevolencia,concept
+articulo_1.txt,ascendientes,concept,opposite of,descendientes,concept
+articulo_1.txt,ventura,concept,subclass of,riesgo,concept
+articulo_1.txt,desarrollo de relación,concept,subclass of,trabajo,concept
+articulo_1.txt,vehículos comerciales,concept,use,transporte,concept
+articulo_1.txt,legislación laboral española,concept,country,España,loc
+articulo_1.txt,centro de trabajo,concept,subclass of,unidad productiva,concept
+articulo_1.txt,puerto de base,concept,part of,mar,concept
+articulo_83.txt,Unidades de negociación,concept,facet of,negociación,concept
+articulo_83.txt,ámbito de aplicación,concept,part of,convenios colectivos,concept
+articulo_83.txt,asociaciones empresariales,concept,subclass of,organizaciones sindicales,concept
+articulo_83.txt,sindicatos,concept,subclass of,asociaciones empresariales,concept
+articulo_83.txt,acuerdos interprofesionales,concept,subclass of,convenios colectivos,concept
+articulo_22.txt,Sistema de clasificación profesional,media,instance of,clasificación profesional,concept
+articulo_22.txt,representantes de los trabajadores,concept,part of,negociación colectiva,concept
+articulo_22.txt,aptitudes profesionales,concept,part of,grupo profesional,concept
+articulo_22.txt,mujeres,concept,opposite of,hombres,concept
+articulo_22.txt,hombres,concept,opposite of,mujeres,concept
+articulo_22.txt,contrato de trabajo,concept,subclass of,prestación laboral,concept
+articulo_81.txt,Locales y tablón de anuncios,concept,instance of,tablón de anuncios,concept
+articulo_81.txt,delegados de personal,concept,part of,empresas,concept
+articulo_81.txt,comité de empresa,concept,part of,empresas,concept
+articulo_81.txt,TÍTULO III,media,follows,TÍTULO III,media
+articulo_81.txt,convenios colectivos,concept,part of,negociación colectiva,concept
+articulo_81.txt,CAPÍTULO I,media,follows,CAPÍTULO I,media
+articulo_81.txt,Disposiciones generales,concept,subclass of,Disposiciones generales,concept
+articulo_81.txt,Naturaleza y efectos de los convenios,concept,instance of,Sección,concept
+articulo_86.txt,Vigencia,loc,located in the administrative territorial entity,Vigencia,loc
+articulo_86.txt,convenio,concept,participant,partes negociadoras,concept
+articulo_86.txt,88,concept,follows,87,concept
+articulo_86.txt,convenios colectivos,concept,subclass of,pacto,concept
+articulo_86.txt,convenio colectivo,concept,subclass of,convenio,concept
+articulo_86.txt,convenio colectivo,concept,subclass of,pacto,concept
+articulo_86.txt,laudo arbitral,concept,subclass of,arbitraje,concept
+articulo_86.txt,laudo arbitral,concept,part of,convenio,concept
+articulo_86.txt,deroga,concept,part of,convenio,concept
+articulo_86.txt,Sección 2.a Legitimación,media,part of,Legitimación,per
+articulo_53.txt,extinción por causas objetivas,concept,subclass of,Forma y efectos de la extinción,concept
+articulo_53.txt,acuerdo de extinción,concept,subclass of,extinción,concept
+articulo_53.txt,Comunicación escrita,concept,used by,trabajador,concept
+articulo_53.txt,mensualidades,concept,subclass of,indemnización,concept
+articulo_53.txt,artículo 52.c,concept,main subject,decisión extintiva,concept
+articulo_53.txt,artículo 52.c,concept,main subject,decisión extintiva,concept
+articulo_53.txt,extinción del contrato de trabajo,concept,facet of,contrato de trabajo,concept
+articulo_53.txt,licencia,concept,instance of,empleo,concept
+articulo_53.txt,decisión extintiva,concept,subclass of,despido disciplinario,concept
+articulo_53.txt,libertades públicas,concept,subclass of,derechos fundamentales,concept
+articulo_53.txt,extintiva,concept,subclass of,decisión,concept
+articulo_53.txt,parto,concept,has cause,lactancia natural,concept
+articulo_53.txt,trabajadoras embarazadas,concept,subclass of,trabajadoras,concept
+articulo_53.txt,"contrato por nacimiento, adopción, guarda con fines de adopción o acogimiento",concept,follows,"contrato por nacimiento, adopción, adopción o guarda con fines de adopción o el acogimiento",concept
+articulo_53.txt,extinción del contrato,concept,subclass of,despido,concept
+articulo_53.txt,decisión extintiva,concept,subclass of,decisión,concept
+articulo_53.txt,decisión extintiva,concept,subclass of,decisión,concept
+articulo_53.txt,indemnización,concept,subclass of,salario,concept
+articulo_53.txt,procedencia o improcedencia de la decisión extintiva,concept,subclass of,despido disciplinario,concept
+articulo_53.txt,desempleo,concept,subclass of,indemnización,concept
+articulo_53.txt,indemnización,concept,subclass of,indemnización económica,concept
+articulo_26.txt,salario,concept,part of,salario,concept
+articulo_26.txt,salario,concept,different from,remuneración,concept
+articulo_26.txt,remuneración,concept,different from,salario,concept
+articulo_26.txt,salario mínimo interprofesional,concept,instance of,salario en especie,concept
+articulo_26.txt,indemnizaciones,concept,part of,Seguridad Social,concept
+articulo_26.txt,salario base,concept,subclass of,salario,concept
+articulo_26.txt,Seguridad Social,concept,subclass of,cargas fiscales,concept
+articulo_26.txt,salario,concept,part of,cómputo,concept
+articulo_71.txt,Elección para el comité de empresa,concept,facet of,comité de empresa,concept
+articulo_71.txt,técnicos,concept,subclass of,trabajadores,concept
+articulo_71.txt,fracción,concept,part of,grupo,concept
+articulo_71.txt,elecciones a miembros del comité de empresa,concept,subclass of,elecciones,concept
+articulo_71.txt,sindicato,concept,subclass of,grupo de trabajadores,concept
+articulo_71.txt,representantes,concept,part of,comité de empresa,concept
+articulo_71.txt,votos válidos,concept,part of,representación proporcional,concept
+articulo_71.txt,candidatos,concept,part of,candidatura,concept
+articulo_71.txt,candidato,concept,part of,elección,concept
+articulo_67.txt,Promoción de elecciones,concept,subclass of,mandato electoral,concept
+articulo_67.txt,delegados de personal,concept,part of,organizaciones sindicales,concept
+articulo_67.txt,miembros de comités de empresa,concept,part of,organizaciones sindicales,concept
+articulo_67.txt,elecciones,concept,part of,proceso electoral,concept
+articulo_67.txt,"Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical",media,main subject,sindicatos,concept
+articulo_67.txt,renovar la representación por conclusión de la duración del mandato,concept,subclass of,elecciones,concept
+articulo_67.txt,elecciones parciales,concept,part of,convenios colectivos,concept
+articulo_67.txt,promoción de elecciones,concept,subclass of,proceso electoral,concept
+articulo_67.txt,promoción,concept,part of,proceso electoral,concept
+articulo_67.txt,comité de empresa,concept,subclass of,empresa,concept
+articulo_67.txt,delegados de personal,concept,part of,comité de empresa,org
+articulo_67.txt,sufragio personal,concept,subclass of,sufragio,concept
+articulo_67.txt,delegados de personal,concept,part of,votación,concept
+articulo_67.txt,tablón de anuncios,concept,part of,oficina pública,concept
+articulo_88.txt,Comisión negociadora,media,facet of,negociadora,concept
+articulo_88.txt,voz,concept,opposite of,voto,concept
+articulo_88.txt,voto,concept,opposite of,voz,concept
+articulo_88.txt,delegados de personal,concept,part of,comités de empresa,concept
+articulo_88.txt,comisión negociadora,concept,subclass of,organizaciones sindicales,concept
+articulo_88.txt,comisión negociadora,concept,subclass of,asociaciones empresariales,concept
+articulo_88.txt,empresariales,concept,subclass of,organizaciones sindicales,concept
+articulo_88.txt,comisión,concept,subclass of,partes negociadoras,concept
+articulo_88.txt,convenios sectoriales,concept,subclass of,convenio,concept
+articulo_88.txt,sesión constitutiva de la comisión,media,part of,comisión negociadora,media
+articulo_88.txt,CAPÍTULO II,media,follows,CAPÍTULO I,media
+articulo_88.txt,Procedimiento,concept,part of,Procedimiento,concept
+articulo_88.txt,"Tramitación, aplicación e interpretación",concept,part of,Sección 1.a,concept
+intro.txt,texto refundido de la Ley del Estatuto de los Trabajadores,concept,part of,Ley 20/2014,media
+intro.txt,Ley 20/2014,media,publication date,31 de octubre de 2014,date
+intro.txt,sindicales,concept,subclass of,empresariales,concept
+intro.txt,reunión del día 23 de octubre de 2015,concept,point in time,23 de octubre de 2015,date
+intro.txt,DISPONGO,misc,manufacturer,DISPONGO,org
+intro.txt,Ley del Estatuto de los Trabajadores,concept,instance of,texto refundido,concept
+intro.txt,Ley del Estatuto de los Trabajadores,concept,instance of,Ley,concept
+intro.txt,Disposición derogatoria única,concept,instance of,Derogación normativa,concept
+intro.txt,texto refundido,concept,replaces,real decreto legislativo,concept
+intro.txt,Ley del Estatuto de los Trabajadores,concept,main regulatory text,Real Decreto Legislativo 1/1995,unk
+intro.txt,disposición adicional cuarta,concept,part of,Ley 12/2001,media
+intro.txt,disposición transitoria a segunda,concept,part of,Ley 12/2001,media
+intro.txt,disposición adicional séptima,concept,part of,Ley 43/2006,media
+intro.txt,disposición transitoria segunda,concept,part of,Ley 43/2006,media
+intro.txt,Ley 35/2010,media,main subject,"17 de septiembre, de medidas urgentes para la reforma del mercado de trabajo",concept
+intro.txt,disposiciones transitorias,concept,part of,Real Decreto-ley,concept
+intro.txt,disposiciones adicionales sexta y novena,concept,part of,"Ley 3/2012, de 6 de julio, de medidas urgentes para la reforma del mercado laboral",concept
+intro.txt,disposiciones transitorias quinta y sexta,concept,part of,"Ley 3/2012, de 6 de julio, de medidas urgentes para la reforma del mercado laboral",concept
+intro.txt,disposición transitoria novena,concept,part of,"Ley 3/2012, de 6 de julio, de medidas urgentes para la reforma del mercado laboral",concept
+intro.txt,disposiciones transitorias décima y decimoquinta,concept,part of,"Ley 3/2012, de 6 de julio, de 6 de julio, de medidas urgentes para la reforma del mercado laboral",concept
+intro.txt,Real Decreto-ley 20/2012,media,publication date,20/2012,date
+intro.txt,Real Decreto-ley 5/2013,media,publication date,5/2013,date
+intro.txt,Real Decreto-ley 16/2013,media,publication date,16/2013,date
+intro.txt,"Ley 1/2014, de 28 de febrero, para la protección de los trabajadores a tiempo parcial y otras medidas urgentes en el orden económico y social",concept,publication date,1/2014,date
+intro.txt,Dado en Oviedo,concept,point in time,23 de octubre de 2015,date
+intro.txt,FELIPE R.,misc,instance of,R.,concept
+intro.txt,Ministra de Empleo y Seguridad Social,concept,subclass of,Ministra,concept
+intro.txt,BÁÑEZ GARCÍA,loc,located in the administrative territorial entity,FÁTIMA BÁÑEZ GARCÍA,loc
+intro.txt,TEXTO REFUNDIDO DE LA LEY DEL ESTATUTO DE LOS TRABAJADORES,media,part of,LEY DEL ESTATUTO DE LOS TRABAJADORES,media
+intro.txt,TÍTULO I,media,follows,TÍTULO I,media
+intro.txt,relación individual de trabajo,concept,opposite of,relación individual de trabajo,concept
+intro.txt,CAPÍTULO I,media,follows,CAPÍTULO I,media
+intro.txt,Disposiciones generales,concept,subclass of,Disposiciones generales,concept
+intro.txt,Ámbito y fuentes,concept,instance of,Sección,concept
+articulo_10.txt,Trabajo en común,concept,subclass of,contrato de grupo,concept
+articulo_10.txt,deberes,concept,subclass of,derechos,concept
+articulo_10.txt,deberes,concept,subclass of,derechos,concept
+articulo_10.txt,empresario,concept,subclass of,trabajador,concept
+articulo_25.txt,Promoción económica,concept,part of,económica,concept
+articulo_25.txt,contrato individual,concept,subclass of,convenio colectivo,concept
+articulo_25.txt,adquisición,concept,subclass of,derechos adquiridos,concept
+articulo_25.txt,Salarios y garantías salariales,concept,instance of,Sección,concept
+articulo_40.txt,Movilidad geográfica,concept,subclass of,Movilidad,concept
+articulo_40.txt,centros de trabajo móviles,concept,subclass of,centros de trabajo,concept
+articulo_40.txt,empresario,concept,subclass of,trabajador,concept
+articulo_40.txt,mensualidades,concept,part of,periodos de tiempo,concept
+articulo_40.txt,reincorporado,concept,subclass of,traslado,concept
+articulo_40.txt,fraude de ley,concept,subclass of,fraude,concept
+articulo_40.txt,representantes legales de los trabajadores,concept,part of,centro de trabajo,concept
+articulo_40.txt,trabajadores,concept,part of,empresas,concept
+articulo_40.txt,trabajadores,concept,part of,empresa,concept
+articulo_40.txt,trabajadores,concept,part of,empresas,concept
+articulo_40.txt,comisión negociadora,concept,subclass of,procedimiento,concept
+articulo_40.txt,interlocutores,concept,part of,procedimiento de consultas,concept
+articulo_40.txt,representantes legales de los trabajadores,concept,subclass of,representantes,concept
+articulo_40.txt,periodo de consultas,concept,follows,periodo de consultas,concept
+articulo_40.txt,consultas,concept,participant,autoridad laboral,concept
+articulo_40.txt,representantes legales,concept,part of,comisión representativa de los trabajadores,concept
+articulo_40.txt,periodo de consultas,concept,subclass of,traslado,concept
+articulo_40.txt,conflicto colectivo,concept,subclass of,conflicto,concept
+articulo_40.txt,párrafo tercero,concept,part of,apartado 1,concept
+articulo_40.txt,arbitraje,concept,subclass of,mediación,concept
+articulo_40.txt,trabajador,concept,subclass of,puesto de trabajo,concept
+articulo_40.txt,víctimas del terrorismo,concept,subclass of,violencia de género,concept
+articulo_40.txt,trabajadores,concept,part of,empresa,concept
+articulo_40.txt,centro de trabajo,concept,subclass of,puesto de trabajo,concept
+articulo_40.txt,nuevo,concept,follows,anterior,concept
+articulo_40.txt,rehabilitación médico-funcional,concept,part of,derecho de protección a la salud,concept
+articulo_40.txt,trabajadores,concept,part of,empresa,concept
+articulo_40.txt,días laborables,concept,part of,viaje,concept
+articulo_40.txt,traslados,concept,part of,orden de desplazamiento,concept
+articulo_40.txt,traslados,concept,main regulatory text,ley,concept
+articulo_40.txt,convenio colectivo,concept,subclass of,acuerdo,concept
+articulo_36.txt,Trabajo nocturno,concept,subclass of,trabajo a turnos,concept
+articulo_36.txt,seis de la mañana,concept,follows,diez de la noche,concept
+articulo_36.txt,horas diarias,concept,part of,jornada de trabajo,concept
+articulo_36.txt,trabajador nocturno,concept,subclass of,jornada diaria de trabajo,concept
+articulo_36.txt,trabajo nocturno,concept,subclass of,seguridad,concept
+articulo_36.txt,retribución,concept,different from,salario,concept
+articulo_36.txt,salario,concept,different from,retribución,concept
+articulo_36.txt,trabajo en equipo,concept,subclass of,organización,concept
+articulo_36.txt,horas,concept,part of,día,concept
+articulo_36.txt,domingo,concept,subclass of,días festivos,concept
+articulo_36.txt,turnos,concept,subclass of,trabajo,concept
+articulo_36.txt,Prevención de Riesgos Laborales,concept,subclass of,Prevención de Riesgos Laborales,concept
+articulo_36.txt,descanso,concept,part of,jornada de trabajo,concept
+articulo_90.txt,Validez,concept,named after,Validez,per
+articulo_90.txt,nulidad,concept,subclass of,sanción,concept
+articulo_90.txt,convenio,concept,participant,autoridad laboral,concept
+articulo_90.txt,Boletín Oficial del Estado,concept,instance of,boletín oficial,concept
+articulo_90.txt,convenio,concept,has cause,acuerden las partes,concept
+articulo_90.txt,"Ley 36/2011, de 10 de octubre, Reguladora de la Jurisdicción Social",concept,main subject,jurisdicción social,concept
+articulo_90.txt,igualdad,concept,subclass of,discriminaciones,concept
+articulo_90.txt,Jurisdicción Social,concept,subclass of,jurisdicción social,concept
+articulo_74.txt,Funciones de la mesa,concept,facet of,mesa,concept
+articulo_74.txt,elecciones,concept,facet of,empresa,concept
+articulo_74.txt,elecciones,concept,part of,proceso electoral,concept
+articulo_74.txt,censo laboral,concept,subclass of,censo,concept
+articulo_74.txt,mesa electoral,concept,instance of,funciones,concept
+articulo_74.txt,electores,concept,part of,censo laboral,concept
+articulo_74.txt,presentación de candidaturas,concept,facet of,número de representantes,concept
+articulo_74.txt,proclamará,concept,facet of,candidaturas,concept
+articulo_74.txt,fecha de votación,concept,facet of,votación,concept
+articulo_74.txt,acta de escrutinio,concept,used by,escrutinio,concept
+articulo_74.txt,elecciones,concept,part of,constitución,concept
+articulo_74.txt,delegado de personal,concept,part of,centros de trabajo,concept
+articulo_74.txt,lista de electores,concept,subclass of,censo laboral,concept
+articulo_74.txt,inclusiones,concept,opposite of,correcciones,concept
+articulo_74.txt,correcciones,concept,opposite of,inclusiones,concept
+articulo_74.txt,lista definitiva de electores,concept,facet of,electores,concept
+articulo_74.txt,votación,concept,follows,proclamación de candidatos,concept
+articulo_3.txt,Fuentes de la relación laboral,concept,facet of,relación laboral,concept
+articulo_3.txt,obligaciones,concept,subclass of,derechos,concept
+articulo_3.txt,disposiciones legales y reglamentarias,concept,country,Estado,loc
+articulo_3.txt,convenios colectivos,concept,subclass of,convenio,concept
+articulo_3.txt,contrato de trabajo,concept,subclass of,convenio,concept
+articulo_3.txt,costumbres,concept,subclass of,usos,concept
+articulo_3.txt,normas de rango superior,concept,subclass of,leyes,concept
+articulo_3.txt,normas laborales,concept,part of,derecho,concept
+articulo_3.txt,convencionales,concept,subclass of,disposiciones legales,concept
+articulo_3.txt,contractuales,concept,subclass of,disposiciones legales,concept
+articulo_3.txt,derecho necesario,concept,subclass of,derechos,concept
+articulo_3.txt,deberes laborales básicos,concept,subclass of,Derechos,concept
+articulo_23.txt,formación profesional,concept,subclass of,formación,concept
+articulo_23.txt,derecho,concept,subclass of,derecho,concept
+articulo_23.txt,profesional,concept,instance of,título académico,concept
+articulo_23.txt,jornada ordinaria,concept,subclass of,jornada,concept
+articulo_23.txt,perfeccionamiento profesional,concept,subclass of,formación,concept
+articulo_23.txt,tiempo de trabajo efectivo,concept,subclass of,tiempo,concept
+articulo_23.txt,directa,concept,opposite of,indirecta,concept
+articulo_23.txt,indirecta,concept,opposite of,directa,concept
+articulo_23.txt,permiso retribuido,concept,instance of,ley,concept
+articulo_19.txt,Seguridad y salud en el trabajo,concept,facet of,trabajo,concept
+articulo_19.txt,seguridad y salud en el trabajo,concept,subclass of,derecho,concept
+articulo_19.txt,seguridad y salud en el trabajo,concept,facet of,trabajo,concept
+articulo_19.txt,representantes legales,concept,facet of,empresario,concept
+articulo_19.txt,Prevención de Riesgos Laborales,concept,main regulatory text,Ley 31/1995,concept
+articulo_19.txt,accidente,concept,subclass of,riesgo,concept
+articulo_19.txt,autoridad laboral,concept,part of,empresa,concept
+articulo_32.txt,Garantías del salario,concept,facet of,salario,concept
+articulo_32.txt,salario mínimo interprofesional,concept,subclass of,salario,concept
+articulo_32.txt,créditos salariales,concept,subclass of,crédito,concept
+articulo_32.txt,indemnizaciones por despido,concept,subclass of,mínimo legal,concept
+articulo_32.txt,crédito salarial,concept,subclass of,salario,concept
+articulo_32.txt,concurso,concept,subclass of,Concursal,concept
+articulo_49.txt,Extinción del contrato,concept,facet of,contrato,concept
+articulo_49.txt,contrato de trabajo,concept,subclass of,contrato de trabajo,concept
+articulo_49.txt,mutuo acuerdo,concept,subclass of,acuerdo,concept
+articulo_49.txt,contrato,concept,subclass of,derecho manifiesto,concept
+articulo_49.txt,contrato de interinidad,concept,subclass of,contratos formativos,concept
+articulo_49.txt,plazo máximo de duración,concept,subclass of,duración,concept
+articulo_49.txt,prestación laboral,concept,part of,contrato,concept
+articulo_49.txt,denuncia,concept,part of,contrato de trabajo,concept
+articulo_49.txt,preaviso,concept,part of,convenio,concept
+articulo_49.txt,invalidez,concept,subclass of,incapacidad,concept
+articulo_49.txt,jubilación,concept,facet of,trabajador,concept
+articulo_49.txt,extinción de la personalidad jurídica,concept,subclass of,extinción,concept
+articulo_49.txt,abono,concept,subclass of,salario,concept
+articulo_49.txt,extinción de la personalidad jurídica,concept,main regulatory text,artículo 51,concept
+articulo_49.txt,imposibilite definitivamente la prestación de trabajo,concept,subclass of,fuerza mayor,concept
+articulo_49.txt,técnicas,concept,part of,económicas,concept
+articulo_49.txt,trabajador,concept,opposite of,empresario,concept
+articulo_49.txt,empresario,concept,opposite of,trabajador,concept
+articulo_49.txt,despido,concept,participant,trabajador,concept
+articulo_49.txt,objetivas,concept,opposite of,legalmente procedentes,concept
+articulo_49.txt,legalmente procedentes,concept,opposite of,objetivas,concept
+articulo_49.txt,abandonar definitivamente su puesto de trabajo,concept,has cause,violencia de género,concept
+articulo_49.txt,extinción del contrato,concept,has cause,extinción del mismo,concept
+articulo_49.txt,finiquito,concept,subclass of,recibo,concept
+articulo_80.txt,Votaciones,concept,manufacturer,Votaciones.com,org
+articulo_80.txt,centro de trabajo,concept,part of,empresa,concept
